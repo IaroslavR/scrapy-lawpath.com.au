@@ -1,4 +1,4 @@
 scrapy-lawpath.com.au
 =====================
 
-Scrapy spyder for https://lawpath.com.au/lawyer-network
+Scrapy spyder for https://lawpath.com.au/lawyer-network. More about Scrapy - see scrapy.org

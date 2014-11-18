@@ -16,7 +16,6 @@ class LNetworkSpider(CrawlSpider):
 	rules=(
 		Rule(SgmlLinkExtractor(restrict_xpaths = ('//*[@id="paginator"]/div/ul/li/a',)),
 			follow=True, callback='parse_item',),
-		#Rule(SgmlLinkExtractor(allow=(), restrict_xpaths = ('//*[@id="lawyer-list"]/div/div/div/div/div[2]/h3/a)',)), callback='parse_item'),
 	)
 	
 	def parse_pass(self, response):
@@ -43,9 +42,9 @@ class LNetworkSpider(CrawlSpider):
 			item['years_experience'] = node.xpath("div/div/div/div[2]/h5/div/div/text()").extract()
 			item['lawyer_about'] = node.xpath("div/div/div/div[2]/div[3]/text()").extract()
 			item['languages'] = node.xpath("div/div/div/div[2]/p[3]/text()").extract()
-			item['source'] = node.xpath("div/div/div/div[2]/h3/a/@href").extract()
 			item['location'] = node.xpath("div/div/div/div[2]/div[2]/div[2]/div/text()").extract()
-			url = 'https://lawpath.com.au/'+node.xpath("div/div/div/div[2]/h3/a/@href").extract()[0]
+			item['source'] = ['https://lawpath.com.au'+node.xpath("div/div/div/div[2]/h3/a/@href").extract()[0]]
+			url = item['source'][0]
 			request = scrapy.Request(url, callback=self.additional_data)
 			request.meta['item'] = item
 			yield request

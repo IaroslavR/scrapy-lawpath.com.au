@@ -1,166 +1,257 @@
-title,practice_areas,years_experience,firm_name,languages,lawyer_name,join_date,connected,location,lawyer_about,source
-Principal  ,,15,Alder IP,English,Anthony Alder,"March 27th, 2013",10,"NSW, Australia,  USA,  Europe,  New Zealand"," ""Alder IP is a specialised law firm focused on helping clients with intellectual property and commercial law issues. We aim to PROTECT THE GREAT IDEAS of our clients.
-
-Alder IP has over 15 years of experience and has lawyers, trade mark attorneys and patent attorneys ready to assist your business.""",/lawyer-network/lawyer-anthony-alder
-Director  ,,16,Auscorp Solicitors & Conveyancers,English,Christina Alexopoulos,"July 9th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-christina-alexopoulos
-Director + Lawyer   ,,,Adler Legal,English,Kathryn Adler,"February 20th, 2014",1,"NSW, Australia"," ""Adler Legal is a boutique commercial law firm based on the waterfront in Pyrmont.  Our principal, Kathryn Adler provides quality advice in the areas of Estate, Property and Business Law.  Whether it is assisting high net worth clients to establish testamentary trust Wills, representing buyers or sellers in conveyancing transactions or drafting business partnership agreements, Adler Legal prides itself on serving its clients by providing the best possible outcome for the most reasonable legal fee""",/lawyer-network/lawyer-kathryn-adler
-Director/Prinicpal  ,,7,Christopher Adams & Associates,English,Christopher Adams,"May 14th, 2014",81,"NSW, Australia,  Papua New Guinea"," ""Christopher heads a small firm of lawyers who can advise in almost all areas of law. The firm appears in all jurisdictions and takes pride in ensuring the client/lawyer relationship is balanced with prompt service  and regular contact.""",/lawyer-network/lawyer-christopher-adams
-Director  ,,,Allen Legal,English,Mark Allen,"October 15th, 2014",1,"NSW, Australia",,/lawyer-network/lawyer-mark-allen
-Principal Solicitor  ,,,Melbourne Legal Group,"English, Other",Abdullah Altintop,"March 14th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-abdullah-altintop
-Principal  ,,10,Chris Adolphe & Associates,English,Chris Adolphe,"March 18th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-chris-adolphe
-"Director, Principal  ",,,CCR Legal,"English, Italian",Cristina Cecere,"November 11th, 2014",,"SA, Australia",,/lawyer-network/lawyer-cristina-cecere
-  ,,,Chitnis Associates,English,Vivek Chitnis,"May 16th, 2013",,"INDIA, India, Australia",,/lawyer-network/lawyer-vivek-chitnis
-Associate  ,,6,Neumann & Turnour,English,Kisane Bird,"August 22nd, 2014",,"QLD, Australia "," ""I practice primarily in family law, with a broad range of experience in forms of alternative dispute resolution such as mediation and without prejudice conferences, as well as advocacy. 
-
-I aim to sensitively guide clients through the process of separation and divorce, advising them thoroughly and negotiating practical solutions for issues from care of children to property settlements. 
-
-I have acted in a number of unique cases involving international elements and questions of law. """,/lawyer-network/lawyer-kisane-bird
-,,,,English,Mevanthi Batepola,"October 21st, 2013",2,,,/lawyer-network/lawyer-mevanthi-batepola
-Principal   ,,,Ballarat Legal Resolution Services ,,Anna Carthew,"July 23rd, 2014",,"VIC, Australia",,/lawyer-network/lawyer-anna-carthew
-Principal  ,,33,Concordia Pacific,English,Michael Arch,"March 19th, 2014",7,"NSW, Australia"," ""Concordia Pacific offers a unique, client-friendly approach to Australian migration law. We provide assistance with all categories of Australian visas, including student, work and family visas. We provide the highest standard of client service, combining expertise with personalised, focussed attention to your matter at an affordable cost.""",/lawyer-network/lawyer-michael-arch
-Senior Associate Lawyer  ,,8,Adelaide Legal,"English, Italian, Other",Julia Adlem,"March 3rd, 2014",12,"SA, Australia"," ""Julia joined the team at Adelaide Legal in September 2006. She read law at Anglia University, Chelmsford in the United Kingdom. Julia's background in management gives her a negotiating edge and the drive to expect more. She doesn’t shy away from the hard fights, but also has the common sense to appreciate when settlement is sensible and guide you through the mine field of the dispute resolution process. Expect more from your lawyer. You matter to us.
-
-""",/lawyer-network/lawyer-julia-adlem
-Senior Associate   ,,30,Edney Ryan Legal,English,Angela Boyd,"July 31st, 2013",,"NSW, Australia",,/lawyer-network/lawyer-angela-boyd
-Chairman  ,,30,Etienne Lawyers,"English, Spanish, Russian, Other",Steven Brown,"March 6th, 2014",3,"NSW, Australia,   New Zealand,  Indonesia"," ""Provider of prompt, sophisticated and coherent legal help. Our clients call us legal magicians.""",/lawyer-network/lawyer-steven-brown
-Principal Solicitor  ,,"4,1,2",Helberg & Associates,English,Bec Bowden,"February 11th, 2014",3,"VIC, Australia"," ""Helberg & Associates is a sole practitioner firm focusing primarily on Family Law. We also work in Conveyancing, WIlls and Powers of Attorney. We know how valuable your time is and as we are a mobile firm we can come to you when you have the time to see us!  """,/lawyer-network/lawyer-bec-bowden
-Principal  ,,10,myvisa4australia,English,Ian Bosley,"September 16th, 2013",2,"QLD, Australia",,/lawyer-network/lawyer-ian-bosley
-Principal  ,,9,Boyce Family Law ,English,William Boyce,"November 25th, 2013",4,"NSW, Australia",,/lawyer-network/lawyer-william-boyce
-Solicitor Director  ,,25,Blackman Legal Pty Ltd,English,Alan Blumberg,"March 5th, 2013",15,"NSW, Australia",,/lawyer-network/lawyer-alan-blumberg
-Principal  ,,35,Boskovitz  Associates Solicitors,"English, Other",Gaby Boskovitz,"May 6th, 2014",1,"NSW, Australia"," ""We are experienced lawyers, located in Bondi Junction NSW.
+lawyer_name,title,firm_name,location,lawyer_about,languages,practice_areas,years_experience,join_date,connected,source
+Liat Blacher,Senior Associate  ,Adviceline Injury Lawyers,"VIC, Australia",,English,,,"July 31st, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-liat-blacher
+Ian Bosley,Principal  ,myvisa4australia,"QLD, Australia",,English,,10,"September 16th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-ian-bosley
+Gaby Boskovitz,Principal  ,Boskovitz  Associates Solicitors,"NSW, Australia"," ""We are experienced lawyers, located in Bondi Junction NSW.
 
 The Principal, Gaby Boskovitz, has been in practice for almost 35years. In this time he has worked as a senior practitioner in the Sydney CBD and for the last 20 years as a sole practitioner.
 
-We specialise in many areas of law including civil litigation, property law, planning and environment law and wills, trusts and estate law.""",/lawyer-network/lawyer-gaby-boskovitz
-Senior Associate  ,,,Adviceline Injury Lawyers,English,Liat Blacher,"July 31st, 2013",,"VIC, Australia",,/lawyer-network/lawyer-liat-blacher
-  ,,5,Gleeson & Co,English,Brad Bolton,"March 28th, 2013",24,"VIC, Australia",,/lawyer-network/lawyer-brad-bolton
-Principal  ,,13,Gilton Valeo,English,Troy Andres,"August 14th, 2013",,"NSW, immigration law,  taxation law, Australia",,/lawyer-network/lawyer-troy-andres
-Principal  ,,13,K. Ang & Co.,English,Kenneth Ang,"July 22nd, 2013",7,"VIC, Australia",,/lawyer-network/lawyer-kenneth-ang
-Partner  ,,12,Deutsch Miller,English,Shane Anderton,"March 17th, 2014",2,"NSW, Australia",,/lawyer-network/lawyer-shane-anderton
-Lawyer  ,,,KWS Legal,English,David Andrews,"December 19th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-david-andrews
-Special Counsel  ,,,KWS Legal,English,Talya Faigenbaum,"June 12th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-talya-faigenbaum
-Principal  ,,5,MistryFallahi Lawyers & Business Advisors,English,Ehsan Fallahi,"March 14th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-ehsan-fallahi
-Principal Solicitor  ,,,Just Defence Criminal Defence Lawyers,English,Jeannette Fahd,"August 6th, 2013",2,"NSW, Australia",,/lawyer-network/lawyer-jeannette-fahd
-Principal  ,,,Erci Lawyers,"English, Other",Seyit Erciyas,"November 1st, 2014",,"VIC, Australia",,/lawyer-network/lawyer-seyit-erciyas
-"Director, Accredited Specialist Business Law  ",,19,Access Law Group Pty Limited,English,Tom Ellicott,"May 15th, 2013",7,"NSW, Australia ",,/lawyer-network/lawyer-tom-ellicott
-Immigration Lawyer  ,,35,Ehrenpreis Immigration Law Corporation,English,Jeffrey Ehrenpreis,"March 19th, 2013",1,"USA, United States, Australia",,/lawyer-network/lawyer-jeffrey-ehrenpreis
-Principal  ,,18,PJA Legal,English,Peter Andersen,"March 14th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-peter-andersen
-Principal Solicitor  ,,,Elamrousy Solicitors,"English, Italian, Cantonese, Other",Maggie Elamrousy,"March 14th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-maggie-elamrousy
-Associate  ,,,Koffels Solicitors & Barristers,"English, Other",Subhaga Amarasekara,"April 30th, 2014",4,"NSW, Australia"," ""Experienced litigator and corporate advisor to individuals and multinational companies. Particular experience in the Supreme Court of NSW. “One of the most interesting parts of my job is to be able to tease out the issues with my clients, clarify what is and isn’t important, then trying to find a solution that the client is happy with – it’s always different and challenging.”""",/lawyer-network/lawyer-subhaga-amarasekara
-Principal Solicitor  ,,14,H + Law,"English, Greek",Helen Amanatiadis,"September 2nd, 2014",13,"NSW, Australia"," ""Helen is the principal solicitor of H + Law, a boutique commercial and construction law firm. 
+We specialise in many areas of law including civil litigation, property law, planning and environment law and wills, trusts and estate law.""","English, Other",,35,"May 6th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-gaby-boskovitz
+Brad Bolton,  ,Gleeson & Co,"VIC, Australia",,English,,5,"March 28th, 2013",24,https:/lawpath.com.au/lawyer-network/lawyer-brad-bolton
+Alan Blumberg,Solicitor Director  ,Blackman Legal Pty Ltd,"NSW, Australia",,English,,25,"March 5th, 2013",15,https:/lawpath.com.au/lawyer-network/lawyer-alan-blumberg
+Angela Boyd,Senior Associate   ,Edney Ryan Legal,"NSW, Australia",,English,,30,"July 31st, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-angela-boyd
+William Boyce,Principal  ,Boyce Family Law ,"NSW, Australia",,English,,9,"November 25th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-william-boyce
+Bec Bowden,Principal Solicitor  ,Helberg & Associates,"VIC, Australia"," ""Helberg & Associates is a sole practitioner firm focusing primarily on Family Law. We also work in Conveyancing, WIlls and Powers of Attorney. We know how valuable your time is and as we are a mobile firm we can come to you when you have the time to see us!  """,English,,"4,1,2","February 11th, 2014",3,https:/lawpath.com.au/lawyer-network/lawyer-bec-bowden
+Jo Anne Chong,  ,JV Legal,"NSW, Australia",,English,,,"February 15th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-jo-anne-chong
+Anna Carthew,Principal   ,Ballarat Legal Resolution Services ,"VIC, Australia",,,,,"July 23rd, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-anna-carthew
+Abdullah Altintop,Principal Solicitor  ,Melbourne Legal Group,"VIC, Australia",,"English, Other",,,"March 14th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-abdullah-altintop
+Vivek Chitnis,  ,Chitnis Associates,"INDIA, India, Australia",,English,,,"May 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-vivek-chitnis
+Erica Brooke Taylor,Principal  ,lexicon:legal,"NSW, Australia",,English,,12,"August 23rd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-erica-brooke-taylor
+Michael Arch,Principal  ,Concordia Pacific,"NSW, Australia"," ""Concordia Pacific offers a unique, client-friendly approach to Australian migration law. We provide assistance with all categories of Australian visas, including student, work and family visas. We provide the highest standard of client service, combining expertise with personalised, focussed attention to your matter at an affordable cost.""",English,,33,"March 19th, 2014",7,https:/lawpath.com.au/lawyer-network/lawyer-michael-arch
+Mevanthi Batepola,,,,,English,,,"October 21st, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-mevanthi-batepola
+Kisane Bird,Associate  ,Neumann & Turnour,"QLD, Australia "," ""I practice primarily in family law, with a broad range of experience in forms of alternative dispute resolution such as mediation and without prejudice conferences, as well as advocacy. 
+
+I aim to sensitively guide clients through the process of separation and divorce, advising them thoroughly and negotiating practical solutions for issues from care of children to property settlements. 
+
+I have acted in a number of unique cases involving international elements and questions of law. """,English,,6,"August 22nd, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-kisane-bird
+Steven Brown,Chairman  ,Etienne Lawyers,"NSW, Australia,   New Zealand,  Indonesia"," ""Provider of prompt, sophisticated and coherent legal help. Our clients call us legal magicians.""","English, Spanish, Russian, Other",,30,"March 6th, 2014",3,https:/lawpath.com.au/lawyer-network/lawyer-steven-brown
+Troy Andres,Principal  ,Gilton Valeo,"NSW, immigration law,  taxation law, Australia",,English,,13,"August 14th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-troy-andres
+Kenneth Ang,Principal  ,K. Ang & Co.,"VIC, Australia",,English,,13,"July 22nd, 2013",7,https:/lawpath.com.au/lawyer-network/lawyer-kenneth-ang
+Shane Anderton,Partner  ,Deutsch Miller,"NSW, Australia",,English,,12,"March 17th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-shane-anderton
+Helen Amanatiadis,Principal Solicitor  ,H + Law,"NSW, Australia"," ""Helen is the principal solicitor of H + Law, a boutique commercial and construction law firm. 
 
 She is committed to achieving commercial results for clients. As a result of her extensive experience in all areas of commercial litigation, consumer law, construction law and planning and development law, she is able to provide strategic and timely advice to clients at all stages of a project.
 
-She is admitted as a practitioner of the Supreme Court of NSW and High Court of Australia. """,/lawyer-network/lawyer-helen-amanatiadis
-  ,,20,Godwin Legal,English,Leif Godwin,"February 22nd, 2013",4,"NSW, Australia",,/lawyer-network/lawyer-leif-godwin
-Principal  ,,23,Websters Lawyers,English,Ken Gluche,"August 14th, 2013",2,"SA, Australia",,/lawyer-network/lawyer-ken-gluche
-Principal  ,,30,Gauld & Co. Elder Law Solicitors,English,Peter Gauld,"September 19th, 2013",19,"VIC, Victoria,  Australia",,/lawyer-network/lawyer-peter-gauld
-Executive Director  ,,10,Teddington Legal,English,Mark Gardiner,"April 5th, 2013",7,"NSW, Australia",,/lawyer-network/lawyer-mark-gardiner
-Managing Director  ,,35,Pmf Legal Limited,English,Paul Fordyce,"September 17th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-paul-fordyce
-Associate  ,,23,HHG Legal Group,English,Andrew Foster,"July 30th, 2013",11,"WA, Australia",,/lawyer-network/lawyer-andrew-foster
-Solicitor Director  ,,,Foteades Freeman Cohen,English,Harry Foteades,"May 20th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-harry-foteades
-,,30,,English,James Ford,"September 26th, 2013",97,,,/lawyer-network/lawyer-james-ford
-Principal  ,,"4,4",Raymond Finch,English,Raymond Finch,"October 2nd, 2013",,"NSW, Australia",,/lawyer-network/lawyer-raymond-finch
-Senior Lawyer  ,,25,McKean Park,English,Mark Finn,"October 11th, 2013",12,"VIC, Australia",,/lawyer-network/lawyer-mark-finn
-Partner  ,,"7,6",Aylward Game Solicitors,English,Ian Field,"September 13th, 2013",50,"QLD, Australia"," ""Ian is an Accredited Specialist in Family Law. Ian also undertakes estate planning and will preparation, and the firm also undertakes a range of property law work as well as business and commercial work.""",/lawyer-network/lawyer-ian-field
-Senior Attorney  ,,40,Law Offices of Samuel F. Galici,English,Samuel F. Galici,"September 13th, 2013",,"California,  USA",,/lawyer-network/lawyer-samuel-f-galici
-Principal Director  ,,4,Harbourside Legal Services,English,Abraham Ishkhanian,"March 27th, 2013",4,"NSW, Australia",,/lawyer-network/lawyer-abraham-ishkhanian
-Partner  ,,,Schofield King Lawyers,English,Miles Hunt,"March 6th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-miles-hunt
-Solicitor  ,,,Koffels Solicitors & Barristers,"English, Other",Min Hur,"April 30th, 2014",6,"NSW, Australia"," ""Commercial lawyer, experienced in representing overseas based multinational companies operating in Australia as well as providing commercial advice to Australian businesses and individuals. “I believe that listening and understanding the need of my clients is the most important aspect of being a good lawyer.”""",/lawyer-network/lawyer-min-hur
-Principal  ,,10,Alliance Family Law,English,Cristina Huesch,"October 19th, 2013",3,"ACT, Australia",,/lawyer-network/lawyer-cristina-huesch
-Associate  ,,5,Thomsons Lawyers,English,Christopher Humby,"January 25th, 2014",,"QLD, Australia"," ""I specialise in building and construction law and general commercial disputes.
+She is admitted as a practitioner of the Supreme Court of NSW and High Court of Australia. ""","English, Greek",,14,"September 2nd, 2014",13,https:/lawpath.com.au/lawyer-network/lawyer-helen-amanatiadis
+Subhaga Amarasekara,Associate  ,Koffels Solicitors & Barristers,"NSW, Australia"," ""Experienced litigator and corporate advisor to individuals and multinational companies. Particular experience in the Supreme Court of NSW. “One of the most interesting parts of my job is to be able to tease out the issues with my clients, clarify what is and isn’t important, then trying to find a solution that the client is happy with – it’s always different and challenging.”""","English, Other",,,"April 30th, 2014",4,https:/lawpath.com.au/lawyer-network/lawyer-subhaga-amarasekara
+Peter Andersen,Principal  ,PJA Legal,"NSW, Australia",,English,,18,"March 14th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-peter-andersen
+Seyit Erciyas,Principal  ,Erci Lawyers,"VIC, Australia",,"English, Other",,,"November 1st, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-seyit-erciyas
+Tom Ellicott,"Director, Accredited Specialist Business Law  ",Access Law Group Pty Limited,"NSW, Australia ",,English,,19,"May 15th, 2013",7,https:/lawpath.com.au/lawyer-network/lawyer-tom-ellicott
+Talya Faigenbaum,Special Counsel  ,KWS Legal,"VIC, Australia",,English,,,"June 12th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-talya-faigenbaum
+Jeannette Fahd,Principal Solicitor  ,Just Defence Criminal Defence Lawyers,"NSW, Australia",,English,,,"August 6th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-jeannette-fahd
+Ehsan Fallahi,Principal  ,MistryFallahi Lawyers & Business Advisors,"NSW, Australia",,English,,5,"March 14th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-ehsan-fallahi
+Maggie Elamrousy,Principal Solicitor  ,Elamrousy Solicitors,"NSW, Australia",,"English, Italian, Cantonese, Other",,,"March 14th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-maggie-elamrousy
+Jeffrey Ehrenpreis,Immigration Lawyer  ,Ehrenpreis Immigration Law Corporation,"USA, United States, Australia",,English,,35,"March 19th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-jeffrey-ehrenpreis
+Maggie Elamrousy,,,,,"English, Mandarin, Italian, Cantonese, Vietnamese, Other",,10,"November 4th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-maggie-elamrousy--2
+Katrina Bristow,Senior Family Law Solicitor  ,McKean Park,"VIC, Australia",,English,,33,"October 11th, 2013",12,https:/lawpath.com.au/lawyer-network/lawyer-katrina-bristow
+Phillip Briffa,Director  ,PB Ritz Lawyers - Experts in Estate Planning,"NSW, Australia",,English,,,"August 2nd, 2013",7,https:/lawpath.com.au/lawyer-network/lawyer-phillip-briffa
+Selwyn Goldberg,  ,Wilson Sonsini Goodrich & Rosarti,"USA, USA, Australia",,English,,,"May 17th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-selwyn-goldberg
+Peter Gauld,Principal  ,Gauld & Co. Elder Law Solicitors,"VIC, Victoria,  Australia",,English,,30,"September 19th, 2013",19,https:/lawpath.com.au/lawyer-network/lawyer-peter-gauld
+Mark Finn,Senior Lawyer  ,McKean Park,"VIC, Australia",,English,,25,"October 11th, 2013",12,https:/lawpath.com.au/lawyer-network/lawyer-mark-finn
+Peter Gell,Director  ,PGG Legal,"NSW, Australia"," ""Peter practices in the areas of taxation (with emphasis on the GST and capital gains tax), tax effective Estate planning and wills, business structuring, reorganisations and reconstructions, complex negotiations and dispute resolution, shareholder arrangements and joint ventures and legal relationship management. Peter has a Master’s degree in taxation conferred by the University of New South Wales and is a Chartered taxation advisor""",English,,30,"July 3rd, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-peter-gell
+Mark Flynn,Partner  ,McKean Park,"VIC, Australia",,English,,31,"October 14th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-mark-flynn
+Samuel F. Galici,Senior Attorney  ,Law Offices of Samuel F. Galici,"California,  USA",,English,,40,"September 13th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-samuel-f-galici
+Ian Field,Partner  ,Aylward Game Solicitors,"QLD, Australia"," ""Ian is an Accredited Specialist in Family Law. Ian also undertakes estate planning and will preparation, and the firm also undertakes a range of property law work as well as business and commercial work.""",English,,"7,6","September 13th, 2013",50,https:/lawpath.com.au/lawyer-network/lawyer-ian-field
+Raymond Finch,Principal  ,Raymond Finch,"NSW, Australia",,English,,"4,4","October 2nd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-raymond-finch
+Elias Farah,Partner  ,Commercial & Legal,"SA, Australia",,English,,10,"July 29th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-elias-farah
+Richard Faulks,Managing Director  ,Snedden Hall & Gallop,"ACT, Australia",,English,,53,"November 15th, 2013",8,https:/lawpath.com.au/lawyer-network/lawyer-richard-faulks
+Ehsan Fallahi,Principal  ,MistryFallahi Lawyers & Business Advisors,"NSW, Australia",,English,,,"May 19th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-ehsan-fallahi--2
+Mark Gardiner,Executive Director  ,Teddington Legal,"NSW, Australia",,English,,10,"April 5th, 2013",7,https:/lawpath.com.au/lawyer-network/lawyer-mark-gardiner
+Fay Frischer,Principal  ,Fay Frischer,"NSW, Australia",,English,,,"May 8th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-fay-frischer
+Evelyn Gardis,Senior Associate  ,Taylor & Scott Lawyers ,"NSW, nsw,  australia",,"English, Italian, Greek, Other",,"10,4","July 25th, 2013",6,https:/lawpath.com.au/lawyer-network/lawyer-evelyn-gardis
+John Howard,  ,Thomsons lawyers,"NSW, Australia",,English,,,"February 17th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-john-howard
+Ernie Hu,Migration Agent & Lawyer  ,This is Australia,"QLD, Australia ",,English,,10,"March 27th, 2013",28,https:/lawpath.com.au/lawyer-network/lawyer-ernie-hu
+Kristine Hopkins,Principal  ,Hopkins Lawyers,"NSW, Australia",,English,,10,"September 17th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-kristine-hopkins
+Kenneth Hong,Senior Associate  ,Yukio Hayashi & Associates,"NSW, Australia",,English,,8,"May 6th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-kenneth-hong
+David Homes,Lawyer  ,Teare Lawyers,"NT, Australia",,English,,,"August 7th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-david-homes
+Ebony Holland Harris,  ,Ebony holland-Harris ,"SA, Australia",,English,,,"August 8th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-ebony-holland-harris
+Kim Hodge,Legal Practise Director  ,Hodge & Smith,"WA, Australia"," ""Kim is a Solicitor and a Human Resources Consultant who is passionate about helping people in a professional and productive way. Kim’s qualifications include a Bachelor of Economics from the University of Western Australia and a Bachelor of Laws from Murdoch University.  He commenced his career in industrial relations and workplace relations in 1995 and has held his legal practicing certificate since 2002.  """,English,,12,"September 12th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-kim-hodge
+Vincent Holland,Lawyer/Director  ,Forty Seven Legal Pty Ltd,"WA, Australia"," ""I am a lawyer and director at Forty Seven Legal and specialise in wills and estates, tax, disputes, superannuation, business law and philanthropy. I go the extra mile for every client, ensuring they get the best outcome and value for money. """,English,,,"July 17th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-vincent-holland
+Abraham Ishkhanian,Principal Director  ,Harbourside Legal Services,"NSW, Australia",,English,,4,"March 27th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-abraham-ishkhanian
+Lucky Iyare Ehimudiamen,Lawyer  ,SVC LEGAL AUSTRALIA,"NSW, Australia",,"English, French, Vietnamese, Other",,,"September 25th, 2014",7,https:/lawpath.com.au/lawyer-network/lawyer-lucky-iyare-ehimudiamen
+Mento Issac,Advocate  ,MENTO ASSOCIATES,"INDIA, India, Australia",,English,,,"May 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-mento-issac
+Min Hur,Solicitor  ,Koffels Solicitors & Barristers,"NSW, Australia"," ""Commercial lawyer, experienced in representing overseas based multinational companies operating in Australia as well as providing commercial advice to Australian businesses and individuals. “I believe that listening and understanding the need of my clients is the most important aspect of being a good lawyer.”""","English, Other",,,"April 30th, 2014",6,https:/lawpath.com.au/lawyer-network/lawyer-min-hur
+Susan Kirkby,Solicitor  ,Kirkby & Associates - Lawyers and Call Conveyancing Sydney,"NSW, Australia - NSW only",,English,,"36,35","September 18th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-susan-kirkby
+Jeremy King,Partner  ,Robinson Gill,"VIC, Australia",,"English, Mandarin, Other",,,"November 13th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-jeremy-king
+Anna King,  ,Quinn & Scattini,"QLD, Australia",,English,,,"October 25th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-anna-king
+Antoinette Khalil,Solicitor  ,Koffels Solicitors & Barristers,"NSW, Australia"," ""Family Law Advocate, providing advice in Wills, Estates and Employment Law and Industrial Relations. “When it comes to doing business, language, listening and the promotion of a resolution becomes key factors. It is my job to establish the clients’ goals, and then to create the pathway to achieve them.”""","English, Other",,,"May 12th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-antoinette-khalil
+Ryan Kim,Principal  ,Capax Legal,"NSW, Australia",,English,,7,"April 11th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-ryan-kim
+Sam Jazayeri,Registered Migration Agent  ,MacGregor O'Reilly Solicitors,"QLD, Australia",,"English, Other",,,"March 19th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-sam-jazayeri
+Tamara Kay,Founder  ,Mindful Separation,"VIC, Australia",,English,,11,"February 27th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-tamara-kay
+Michael Kely,Principal  ,Brisbane Legal Group,"QLD, Australia",,,,,"January 30th, 2014",5,https:/lawpath.com.au/lawyer-network/lawyer-michael-kely
+Ibrahim Kakay,Lawyer & Migration Agent  ,KakayLegal &Able Migration Consultants,"WA, Australia, Sierra Leone",,"English, French, Other",,10,"June 21st, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-ibrahim-kakay
+Will Justo,Partner  ,Wallace Wilkinson and Webster,"TAS, Australia",,English,,19,"August 29th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-will-justo
+Damian J Ryall,Principal  ,Ryall Lawyers,"NSW, Australia",,English,,16,"July 17th, 2013",6,https:/lawpath.com.au/lawyer-network/lawyer-damian-j-ryall
+Terry Ledlin,Partner  ,Ledlin Partners,"NSW, Australia",,English,,"38,1975","March 27th, 2013",3,https:/lawpath.com.au/lawyer-network/lawyer-terry-ledlin
+Michael Lee,Senior Associate  ,Koffels Solicitors & Barristers,"NSW, Australia"," ""Senior Associate with over twenty years experience in general commercial litigation, property and building disputes, insolvency, estates and family law settlements.
 
-My services include:
-- Negotiating and drafting construction contracts and other commercial agreements
-- Providing advice in relation to payment, quality and time related claims
-- Acting for claimants or respondents in relation to claims under Security of Payment legislation
-- Acting for parties involved in construction disputes, including litigation, arbitration and expert determination""",/lawyer-network/lawyer-christopher-humby
-  ,,,Thomsons lawyers,English,John Howard,"February 17th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-john-howard
-Migration Agent & Lawyer  ,,10,This is Australia,English,Ernie Hu,"March 27th, 2013",28,"QLD, Australia ",,/lawyer-network/lawyer-ernie-hu
-Managing Director  ,,53,Snedden Hall & Gallop,English,Richard Faulks,"November 15th, 2013",8,"ACT, Australia",,/lawyer-network/lawyer-richard-faulks
-Partner  ,,10,Commercial & Legal,English,Elias Farah,"July 29th, 2013",2,"SA, Australia",,/lawyer-network/lawyer-elias-farah
-Principal  ,,20,"Loyalty Legal Pty Ltd, Commercial Lawyers",English,Lincoln Hunter,"August 6th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-lincoln-hunter
-Principal  ,,,MistryFallahi Lawyers & Business Advisors,English,Ehsan Fallahi,"May 19th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-ehsan-fallahi--2
-Legal Consultant  ,,,De Silva Legal,English,Jonnita Gillam,"April 26th, 2014",1,"VIC, Australia",,/lawyer-network/lawyer-jonnita-gillam
-Barrister  ,,"3,13",Eleventh Floor Garfield Barwick Chambers,English,Michael Gleeson,"September 6th, 2013",15,"NSW, Australia and United Kingdom",,/lawyer-network/lawyer-michael-gleeson
-Legal Practitioner Director  ,,9,Jaku Legal Pty Ltd,English,Marc Jaku,"December 12th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-marc-jaku
-Principal  ,,16,Ryall Lawyers,English,Damian J Ryall,"July 17th, 2013",6,"NSW, Australia",,/lawyer-network/lawyer-damian-j-ryall
-Solicitor  ,,,Koffels Solicitors & Barristers,"English, Other",Antoinette Khalil,"May 12th, 2014",2,"NSW, Australia"," ""Family Law Advocate, providing advice in Wills, Estates and Employment Law and Industrial Relations. “When it comes to doing business, language, listening and the promotion of a resolution becomes key factors. It is my job to establish the clients’ goals, and then to create the pathway to achieve them.”""",/lawyer-network/lawyer-antoinette-khalil
-Principal  ,,7,Capax Legal,English,Ryan Kim,"April 11th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-ryan-kim
-Principal  ,,,Brisbane Legal Group,,Michael Kely,"January 30th, 2014",5,"QLD, Australia",,/lawyer-network/lawyer-michael-kely
-Barrister  ,,14,Barrister,English,Laura Keily,"November 6th, 2014",,"VIC, Australia,  entitled to practise in the UK"," ""Laura Keily is a commercial barrister who focuses on corporate law, including disputes and legal compliance.  She is available to act on all kinds of disputes, such as contract or payment disputes or regulatory investigations. Laura is a highly experienced corporate and business lawyer, with many years experience as a corporate solicitor at major firms prior to joining the Bar in 2013.  In some but not cases, a solicitor may need to be engaged in addition to the ultimate client.  """,/lawyer-network/lawyer-laura-keily
-Founder  ,,11,Mindful Separation,English,Tamara Kay,"February 27th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-tamara-kay
-Director   ,,,WKA Legal,English,Warwick Keay,"July 27th, 2014",3,"NSW, Australia",,/lawyer-network/lawyer-warwick-keay
-"Lawyer, Trade Mark & Patent Attorney  ",,12,Phillips Ormonde Fitzpatrick,English,Helen Kavadias,"July 5th, 2014",,"NSW, Australia "," ""intellectual property (trade marks, patents, designs, copyright) protection, enforcement, and commercialisation""",/lawyer-network/lawyer-helen-kavadias
-  ,,,Quinn & Scattini,English,Anna King,"October 25th, 2014",,"QLD, Australia",,/lawyer-network/lawyer-anna-king
-Solicitor / Director  ,,16,CK LAWYERS,English,Wally Joseph Kalouche,"July 16th, 2013",8,"NSW, Australia",,/lawyer-network/lawyer-wally-joseph-kalouche
-Principal  ,,,"ROBERT LOMBARDI, LLM",,"Robert Lombardi, Llm","May 7th, 2014",1,"WA, Australia",,/lawyer-network/lawyer-robert-lombardi-llm
-Partner   ,,25,Hunt & Hunt,English,Catherine Logan,"May 21st, 2014",5,"NSW, Australia "," ""A solid background in corporate and commercial law spanning more than 25 years provides Catherine with an efficient yet detailed approach that focuses on avoiding unwanted publicity and litigation for her very satisfied clients.
- Jointly heading our Sydney Commercial and Property Group, Catherine’s key areas are intellectual property (IP), corporate advisory, contracts, ecommerce, competition and consumer law, leases and licensing. Her clients vary, ranging from listed and unlisted public companies, global companies, family businesses, partnerships and joint ventures, to government and non-government, sporting, charitable and non-profit organisations. 
+“Winning, seriously – this is important. Firstly by avoiding disputes with effective planning and drafting; and where required, to be the ultimate advocate for my client when there is no recourse but to take a stand.”""",English,,20,"April 29th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-michael-lee
+Wally Joseph Kalouche,Solicitor / Director  ,CK LAWYERS,"NSW, Australia",,English,,16,"July 16th, 2013",8,https:/lawpath.com.au/lawyer-network/lawyer-wally-joseph-kalouche
+Annette Lakey,Associate   ,Hall Payne Lawyers,"QLD, Australa , Australia",,English,,15,"September 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-annette-lakey
+Marwan Kojok,Managing Partner  ,Baybridge Lawyers,"NSW, Australia"," ""Marwan Kojok is the Founder of Baybridge Lawyers and is a leading authority in the franchising, licensing and distribution sectors. Marwan has a wealth of commercial, corporate and franchise experience, highly valued by SMEs, publicly listed companies and large businesses, both in Australia and internationally. Marwan has worked in a diverse range of industries, assisting in the international protection of well-known brand names.""",English,,20,"November 13th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-marwan-kojok
+Drazen Kozaric,Litigation Solicitor  ,NQ LEGAL,"QLD, Australia",,English,,3,"June 12th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-drazen-kozaric
+Aaron Koffel,Associate Director  ,Koffels Solicitors & Barristers,"NSW, Australia"," ""Senior corporate lawyer with 9 years of experience in representing leading private and public companies based in Europe, Americas and Asia Pacific region. 
 
-""",/lawyer-network/lawyer-catherine-logan
-Legal Practitioner Director  ,,27,Qld Law Group,English,Steven Johnson,"September 16th, 2013",21,"QLD, Australia"," ""Our firm thrives on carrying the Queenslander traits of no-nonsense, straight talking and hard work through all aspects of our legal practice. We offer personalised, thoroughly professional legal advice when you need it, without it costing the shirt off your back. We've got some exceptionally sharp legal minds that have proved our on-going success for over 20 years. At Qld Law Group - A New Direction Pty Ltd, we have the expertise to both deal with the law in all its complexity, and yet communicate with you in simple, uncomplicated terms. You won't find another legal firm that pulls it all together like we do.""",/lawyer-network/lawyer-steven-johnson
-Principal  ,,15,Workplace Law Specialists,English,Sarah Lock,"February 11th, 2014",30,"VIC, Australia",,/lawyer-network/lawyer-sarah-lock
-Sole Practitioner  ,,40,"Merran Loewenthal, LL.B.",English,Merran Loewenthal,"June 11th, 2013",,"Austria,  as English and NSW solicitor",,/lawyer-network/lawyer-merran-loewenthal
-Sole Director   ,,35,Charthill Legal,"English, Other",Jules Lewin,"January 28th, 2014",4,"WA, South Africa and Australia "," ""We are a boutique suburban law firm providing solution based practical advise at reasonable rates """,/lawyer-network/lawyer-jules-lewin
-Owner  ,,16,Ben Lehman,English,Ben Lehman,"July 23rd, 2014",,"VIC, Australia",,/lawyer-network/lawyer-ben-lehman--2
-Senior Associate  ,,20,Koffels Solicitors & Barristers,English,Michael Lee,"April 29th, 2014",,"NSW, Australia"," ""Senior Associate with over twenty years experience in general commercial litigation, property and building disputes, insolvency, estates and family law settlements.
-
-“Winning, seriously – this is important. Firstly by avoiding disputes with effective planning and drafting; and where required, to be the ultimate advocate for my client when there is no recourse but to take a stand.”""",/lawyer-network/lawyer-michael-lee
-Partner  ,,,Ben Lehman,English,Ben Lehman,"May 16th, 2014",1,"VIC, Australia",,/lawyer-network/lawyer-ben-lehman
-Partner  ,,"38,1975",Ledlin Partners,English,Terry Ledlin,"March 27th, 2013",3,"NSW, Australia",,/lawyer-network/lawyer-terry-ledlin
-Managing Director  ,,18,Leach Legal,English,Catherine Leach,"July 30th, 2013",2,"WA, Australia",,/lawyer-network/lawyer-catherine-leach
-Lawyer  ,,,Legal Wisdom,,Terry Mc Cowan,"February 25th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-terry-mccowan
-Solicitor  ,,8,Marciano Lawyers,English,Pat Marciano,"March 4th, 2014",,"SA, Australia ",,/lawyer-network/lawyer-pat-marciano
-Partner  ,,,J. Sagar Associates,English,Gerald Manoharan,"May 16th, 2013",2,"INDIA, India, Australia",,/lawyer-network/lawyer-gerald-manoharan
-Principal  ,,,Mukushi Legal,"English, French, Other",Tsungai Mukushi,"February 10th, 2014",17,"VIC, Australia",,/lawyer-network/lawyer-tsungai-mukushi
-Ll.M.  ,,10,Law Down Under,English,Bianca Mueller,"April 29th, 2013",3,"New Zealand, New Zealand,  Australia,  Germany ",,/lawyer-network/lawyer-bianca-mueller
-  ,,,John F. Morrissey & Company lawyers,English,John Morrissey,"May 16th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-john-morrissey
-Principal  ,,,Boutros Lawyers,,Boutros Lawyers,"April 12th, 2014",2,"NSW, Australia",,/lawyer-network/lawyer-boutros-lawyers
-Senior Associate  ,,10,HHG Legal Group,English,Daniel Morris,"August 1st, 2013",36,"WA, Australia",,/lawyer-network/lawyer-daniel-morris
-Lawyers  ,,,CM Lawyers,"English, Greek",Christine Monolakos,"August 25th, 2014",,"NSW, Australia"," ""CM Lawyers are located in Marrickville, Sydney. Our solicitors carry out a range of services, including Will preparation & Advice, Power of attorney documents, Criminal Law, Family Law, Property Law and Debt Recovery.""",/lawyer-network/lawyer-christine-monolakos
-Partner  ,,17,Truman Hoyle,English,Michael Montgomery,"March 15th, 2013",3,"NSW, Australia",,/lawyer-network/lawyer-michael-montgomery
-Firm Manager  ,,,Baxter IP Patent and Trademark Attorneys,English,Nicholas Milne,"April 30th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-nicholas-milne
-Solicitor  ,,,Marsdens Law Group,"English, Other",Ali Mokhtar,"September 8th, 2014",2,"NSW, Australia",,/lawyer-network/lawyer-ali-mokhtar
-Lawyer  ,,,Exodus Lawyers,"English, Other",Darlington Makura,"August 29th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-darlington-makura
-Director  ,,,Mackey Lawyers Pty Ltd,,Emma Mackey,"February 10th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-emma-mackey
-Principal  ,,10,Sharon Payne Family Lawyers,English,Sharon Payne,"March 27th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-sharon-payne
-Director  ,,,Guardianlaw Law,English,Marlon Potts,"January 6th, 2014",,"NSW, QLD, Australia",,/lawyer-network/lawyer-marlon-potts
-"Managing Partner, Registered Migration Agent  ",,,Playfair Visa and Migration Services,"English, Mandarin, Cantonese, Other",Petra Playfair,"January 24th, 2014",1,"NSW, Australia",,/lawyer-network/lawyer-petra-playfair
-Lawyer  ,,10,Placanica Lawyers,"English, Italian",Vince Placanica,"June 11th, 2014",,"NSW, Australia"," ""We are a highly specialised criminal law firm. We deal with major and minor criminal matters and are available 24/7.
-We attend to all City and Suburban Courts as well as regional and interstate.
-First consultation is free. """,/lawyer-network/lawyer-vince-placanica
-Principal  ,,48,Ivan Poole Lawyers,English,Ivan Poole,"February 25th, 2014",,"QLD, Australia"," ""Ivan Poole has over 25 years' experience in Franchise Law. His firm has become the Gold Coast's leaders for franchising and intellectual property law. 
+“I really believe in representing my clients’ interests. I love helping them succeed. I understand the fundamentals of finance, accounting, operations management, branding and corporate strategy, this helps me gear my legal advice to the issues relevant to the client.”""",English,,9,"April 30th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-aaron-koffel--2
+Andrew Kleiman,Legal Practitioner Director  ,SME Property Lawyer,"NSW, New South Wales,  Australia"," ""SME Property Lawyer offers property, conveyancing and leasing legal services for small and medium sized businesses. We specialise in commercial, industrial and retail property such as offices, warehouses and shops. Our fees are advertised on our website so clients enjoy price certainty and transparency.""",English,,10,"July 4th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-andrew-kleiman
+Noah Klug,Senior Lawyer  ,Nevett Ford Melbourne Pty Ltd,"VIC, Australia,  USA,  Italy"," ""I practice US immigration/visa law, Australian immigration/visa law, Australian employment/workplace relations law, and general Australian commercial law.  I have colleagues in my firm who practice litigation, property law, and family law.""",English,,6,"September 12th, 2013",42,https:/lawpath.com.au/lawyer-network/lawyer-noah-klug
+Graham Lancaster,Director  Dispute Resolution  ,Access Law Group,"NSW, Australia",,English,,28,"June 6th, 2013",11,https:/lawpath.com.au/lawyer-network/lawyer-graham-lancaster
+Melissa Lammers,Principal Solicitor  ,Shire Legal,"NSW, Australia",,English,,18,"April 26th, 2013",3,https:/lawpath.com.au/lawyer-network/lawyer-melissa-lammers
+Kay Lam Mac Leod,Principal  ,Idealaw,"QLD, Australia",,"English, Cantonese",,13,"May 16th, 2013",9,https:/lawpath.com.au/lawyer-network/lawyer-kay-lam-macleod
+Michael Kuzilny,Barrister & Solicitor  ,Michael Kuzilny,"VIC, Australia",,,,,"April 12th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-michael-kuzilny
+Bindu Kurup,Principal Lawyer  ,BK Lawyers and conveyancers,"VIC, Australia",,"English, Other",,10,"September 8th, 2014",3,https:/lawpath.com.au/lawyer-network/lawyer-bindu-kurup
+William Mulholland,Principal  ,william mulholland + co lawyers,"VIC, Australia"," ""We are a  firm of commercial and IP lawyers providing quality legal services to private clients, business, SME's, companies and charitable organisations.  We want to make the law less of a trial for you and your business with the aim of building an ongoing relationship with all of our clients and aim at helping you to understand all your rights and obligations, so we can help you make sense from the complexities and confusion of the law.""",English,,12,"February 11th, 2014",56,https:/lawpath.com.au/lawyer-network/lawyer-william-mulholland
+Tsungai Mukushi,Principal  ,Mukushi Legal,"VIC, Australia",,"English, French, Other",,,"February 10th, 2014",17,https:/lawpath.com.au/lawyer-network/lawyer-tsungai-mukushi
+John Morrissey,  ,John F. Morrissey & Company lawyers,"NSW, Australia",,English,,,"May 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-john-morrissey
+Bianca Mueller,Ll.M.  ,Law Down Under,"New Zealand, New Zealand,  Australia,  Germany ",,English,,10,"April 29th, 2013",3,https:/lawpath.com.au/lawyer-network/lawyer-bianca-mueller
+Michael Montgomery,Partner  ,Truman Hoyle,"NSW, Australia",,English,,17,"March 15th, 2013",3,https:/lawpath.com.au/lawyer-network/lawyer-michael-montgomery
+Daniel Morris,Senior Associate  ,HHG Legal Group,"WA, Australia",,English,,10,"August 1st, 2013",36,https:/lawpath.com.au/lawyer-network/lawyer-daniel-morris
+Christine Monolakos,Lawyers  ,CM Lawyers,"NSW, Australia"," ""CM Lawyers are located in Marrickville, Sydney. Our solicitors carry out a range of services, including Will preparation & Advice, Power of attorney documents, Criminal Law, Family Law, Property Law and Debt Recovery.""","English, Greek",,,"August 25th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-christine-monolakos
+Ali Mokhtar,Solicitor  ,Marsdens Law Group,"NSW, Australia",,"English, Other",,,"September 8th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-ali-mokhtar
+Rebecca Kurien,,,,,English,,6,"April 29th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-rebecca-kurien
+Catherine Leach,Managing Director  ,Leach Legal,"WA, Australia",,English,,18,"July 30th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-catherine-leach
+Eric Kuenzi,Partner  ,ek | Law,"SUI, Switzerland, Australia",,English,,13,"March 8th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-eric-kuenzi
+Tony Laumberg,Proprietor  ,Tony,"NSW, Australia",,English,,33,"August 12th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-tony-laumberg
+Boutros Lawyers,Principal  ,Boutros Lawyers,"NSW, Australia",,,,,"April 12th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-boutros-lawyers
+Michael Owens,Lawyer  ,Ferguson Cannon Lawyers,"QLD, Australia",,English,,,"February 5th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-michael-owens
+Daniel Nash,Lawyer  ,MacGregor O'Reilly Solicitors,"QLD, Australia",,English,,11,"September 13th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-daniel-nash
+Stephen Potts,Managing Director  ,Neumann & Turnour,"QLD, Australia"," ""Stephen is a family lawyer and Managing Director of Neumann & Turnour.  His practice focuses on family law disputes and resolution with extensive experience in complex property settlements involving private and publicly listed companies, trusts and partnerships.   Stephen advises clients in relation to children’s disputes and care arrangements, child support, child protection and specific issues such as interstate and international relocation, international child abduction and overseas travel.""",English,,10,"July 22nd, 2014",20,https:/lawpath.com.au/lawyer-network/lawyer-stephen-potts
+Marlon Potts,Director  ,Guardianlaw Law,"NSW, QLD, Australia",,English,,,"January 6th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-marlon-potts
+Petra Playfair,"Managing Partner, Registered Migration Agent  ",Playfair Visa and Migration Services,"NSW, Australia",,"English, Mandarin, Cantonese, Other",,,"January 24th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-petra-playfair
+Ivan Poole,Principal  ,Ivan Poole Lawyers,"QLD, Australia"," ""Ivan Poole has over 25 years' experience in Franchise Law. His firm has become the Gold Coast's leaders for franchising and intellectual property law. 
 Ivan is widely recognised in Australia and in New Zealand as a lawyer with an in depth legal knowledge and an appreciation and understanding of commercial practicalities. 
 
-Ivan Poole Lawyers also handle general commercial matters such as merges and acquisitions, structuring and businesses' general legal needs.""",/lawyer-network/lawyer-ivan-poole
-Marketing Manager  ,,,Ferguson Cannon Lawyers,English,Ash Platz,"September 18th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-ash-platz
-Director  ,,,Pinder Consulting,German,Dianne Pinder,"August 13th, 2014",,"QLD, Australia",,/lawyer-network/lawyer-dianne-pinder
-  ,,,Paxman and Paxman,English,Lana Paxman,"January 25th, 2014",,"WA, Australia",,/lawyer-network/lawyer-lana-paxman--2
-Lawyer  ,,,Advantage Partnership Lawyers,"English, Other",Karen Pearson,"February 4th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-karen-pearson
-Principal  ,,4,Codex Legal,English,Gorica Panich,"September 19th, 2013",2,"SA, Australia",,/lawyer-network/lawyer-gorica-panich
-Partner  ,,,Nicholes Family Lawyers,English,Anna Parker,"May 7th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-anna-parker
-  ,,21,Robert James Lawyers,English,Andrea Pane,"February 20th, 2013",,"VIC, Australia",,/lawyer-network/lawyer-andrea-pane
-Managing Principal  ,,8,Schmidt-Liermann,English,Joerg Schmidt Liermann,"March 27th, 2013",4,"NSW, Australia",,/lawyer-network/lawyer-joerg-schmidt-liermann
-Principal  ,,,"Robert Scard & Associates, Entertainment Lawyers",English,Robert Scard,"August 7th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-robert-scard
-Solicitor  ,,,Ivan Poole Lawyers,English,Samuel Rees,"February 25th, 2014",4,"QLD, Australia"," ""Samuel Rees specialises in Franchising Law and Intellectual Property.
+Ivan Poole Lawyers also handle general commercial matters such as merges and acquisitions, structuring and businesses' general legal needs.""",English,,48,"February 25th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-ivan-poole
+Ash Platz,Marketing Manager  ,Ferguson Cannon Lawyers,"QLD, Australia",,English,,,"September 18th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-ash-platz
+Vince Placanica,Lawyer  ,Placanica Lawyers,"NSW, Australia"," ""We are a highly specialised criminal law firm. We deal with major and minor criminal matters and are available 24/7.
+We attend to all City and Suburban Courts as well as regional and interstate.
+First consultation is free. ""","English, Italian",,10,"June 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-vince-placanica
+Dianne Pinder,Director  ,Pinder Consulting,"QLD, Australia",,German,,,"August 13th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-dianne-pinder
+Sykes Pearson Miller Law,Legal Secretary  ,Sykes Pearson Miller Law (SPM Law),"QLD, Australia"," ""SPM Law - Your partners in life & law.""",English,,20,"October 23rd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-sykes-pearson-miller-law
+David Naidoo,Principal  ,David Naidoo & Associates,"VIC, Australia",,English,,25,"September 18th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-david-naidoo
+Shivpriya Nanda,  ,J. Sagar Associates,"INDIA, India, Australia",,English,,,"May 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-shivpriya-nanda
+Aaron Nadel,Practice Manager  ,Mothers in Law Lawyers,"NSW, Australia",,English,,13,"August 29th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-aaron-nadel
+Josh Murphy,,,,,English,,,"August 29th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-josh-murphy
+Rejinay Singh,Legal Consultant  ,De Silva Legal,"NSW, Australia",,English,,,"May 21st, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-rejinay-singh
+Mobeena Singh,Solicitor  ,Koffels Solicitors & Barristers,"NSW, Australia"," ""Mobeena Singh has a specialist practice in compensation law, including state and federal workplace law, medical law, superannuation and insurance law, and general matters of negligence and social justice. She is dedicated to achieving successful outcomes for her clients, while acting on a no win/no fee basis and offering a no obligation initial consultation.""","English, Other",,,"May 8th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-mobeena-singh
+Navjot Singh,Casual Solicitor  ,Teddington Legal,"NSW, Australia",,English,,,"May 9th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-navjot-singh
+Dmitry Shtifelman,Principal  ,Abrahams Meese Lawyers,"VIC, Australia",,Russian,,,"March 14th, 2014",3,https:/lawpath.com.au/lawyer-network/lawyer-dmitry-shtifelman
+Hayder Shkara,Solicitor  ,Russell Byrnes Solicitor,"NSW, Australia",,English,,40,"October 18th, 2013",32,https:/lawpath.com.au/lawyer-network/lawyer-hayder-shkara
+Joerg Schmidt Liermann,Managing Principal  ,Schmidt-Liermann,"NSW, Australia",,English,,8,"March 27th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-joerg-schmidt-liermann
+Robert Scard,Principal  ,"Robert Scard & Associates, Entertainment Lawyers","NSW, Australia",,English,,,"August 7th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-robert-scard
+Nick Stevens,Principal  ,Stevens & Associates Lawyers,"NSW, I am also admitted as a solicitor in England and Wales , Australia"," ""Our Mission is to provide our clients with a ""Vision"" in the workplace. This Vision is delivered to clients in a timely and professional manner, by way of practical solutions and strategies in all aspects of industrial relations and employment law.""",English,,20,"May 17th, 2013",5,https:/lawpath.com.au/lawyer-network/lawyer-nick-stevens
+Jarred Stein,Director/Registered M Igration Agent  ,KWS Migration,"NSW, Australia",,"English, Mandarin, Cantonese, Portugese / Brasilero, German",,,"June 11th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-jarred-stein
+Erin Steiner,Principal Solicitor  ,Steiner Legal,"NSW, Australia",,English,,6,"July 17th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-erin-steiner
+Michael Sobey,Managing Partner  ,Sykes Pearson Miller Law (SPM Law),"QLD, Australia"," ""Michael specialises in retail and commercial leasing, management rights, body corporate, commercial property, business sales, and business structuring.""",English,,20,"May 30th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-michael-sobey
+Michael Solari,  ,Solari & Stock,"NSW, Australia",,English,,,"February 15th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-michael-solari
+Keith Spencer,Director  ,Spencer & Co Legal ,"NSW, Australia",,English,,29,"July 9th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-keith-spencer
+Ryan Thomas,Partner   ,Andersons Solicitors ,"SA, Australia",,English,,9,"June 25th, 2013",14,https:/lawpath.com.au/lawyer-network/lawyer-ryan-thomas
+Olivia Terziovski,Director   ,Boutique Lawyers ,"VIC, Australia "," ""Building Lawyers for Home Owners
+We do one thing really well and thats represent Home Owners we offer Value Billing so you get certainty. 
+""",English,,7,"November 12th, 2013",8,https:/lawpath.com.au/lawyer-network/lawyer-olivia-terziovski
+Murray Thornhill,Director  ,HHG Legal Group,"WA, Australia",,English,,17,"July 30th, 2013",66,https:/lawpath.com.au/lawyer-network/lawyer-murray-thornhill
+Andrew Taylor,Director  ,Toogoods Migration,"QLD, Worldwide, Australia",,English,,15,"September 11th, 2013",7,https:/lawpath.com.au/lawyer-network/lawyer-andrew-taylor--2
+Peter Thelwell,Associate  ,Ivan Poole Lawyers,"QLD, Australia"," ""Peter Thelwell has been practising in Franchising and Intellectual Property Law for over four years. Peter is on the Queensland Law Society Franchising Committee and is a member of the Franchising Council of Australia.
+Peter's experience extends to Trade Mark applications for Countries all over the world.
+
+In addition to Franchising and Intellectual Property Law Peter is an immigration agent. """,English,,4,"February 25th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-peter-thelwell
+Aaron Taranto,  ,The AT Group,"NSW, Australia",,English,,2,"February 19th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-aaron-taranto
+Emily Yau,Director  ,WF Yau Lawyers,"QLD, Hong Kong,  Australia",,"English, Mandarin, Cantonese",,14,"October 2nd, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-emily-yau
+Alex Tees,Principal Lawyer  ,SVC LEGAL AUSTRALIA,"NSW, Australia"," ""SVC Legal Australia is an Australian based law firm providing a wide range of legal services. Incorporated within our firm we have Syd Venture Capital a Migration and Business Consultancy firm.
+
+We are highly respected within the legal and migration profession and are renowned for its high success rate, commitment and quality in providing cost effective and innovative solutions for clients.""","English, Mandarin",,20,"October 8th, 2014",45,https:/lawpath.com.au/lawyer-network/lawyer-alex-tees
+James Yianoulatos,,,,,English,,,"February 6th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-james-yianoulatos
+Nicholas Yau,Lawyer  ,WF Yau Lawyers,"QLD, Australia",,"English, Mandarin, Cantonese, Other",,,"October 2nd, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-nicholas-yau
+Kym Yeomans,Accountant  ,DC Balog & Associates,"NSW, Australia",,English,,,"December 3rd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-kym-yeomans
+Drew Woods,Partner  ,Ross & Daniels Lawyers,"VIC, Australia"," ""Principal Lawyer and co-founder of Ross & Daniels Lawyers. 
+
+A small commercial law firm practicing in the areas of litigation, insolvency, commercial and property law. Our focus is assisting small business owners from start-up to managing all aspects of their currently trading business through to establishing and finalising a succession plan or sale. We also assist business owners in their own personal capacity through estate planning, asset protection and property transactions.""",English,,10,"March 28th, 2013",30,https:/lawpath.com.au/lawyer-network/lawyer-drew-woods
+Russell Wiese,Partner  ,Hunt & Hunt Lawyers,"VIC, Australia"," ""Russell is a commercial lawyer with a strong focus on customs and global trade.  
+
+Russell assists importers, exporters, customs brokers and freight forwarders with issues involving Australian Customs, commercial agreements relating to international trade and resolving dispute between different parties in international supply chains.""",English,,10,"September 26th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-russell-wiese
+Yunfei Wu,Solicitor  ,WU,"VIC, Australia,  China",,English,,3,"June 18th, 2013",17,https:/lawpath.com.au/lawyer-network/lawyer-yunfei-wu
+Morgan Tanswell,Solicitor  ,MacGregor O'Reilly,"QLD, Australia"," ""MacGregor O'Reilly Solicitors is a boutique law firm situated in Surfers Paradise, Queensland.  I personally specialise in employee relations, commercial disputes and wills and estates.  Our other lawyers deal with family law, property law, commercial litigation and finance law.  """,English,,2,"September 25th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-morgan-tanswell
+Greg Smith,Partner  ,Smith's Lawyers,"QLD, Australia"," ""Smith's Lawyers are a QLD personal injury law firm offering a unique No Win. No Fee. No Catch.™ promise. With most 'No Win, No Fee' lawyers you may have to pay the other sides costs if you go to court and lose. With Smith's Lawyers there is no catch and you will never be left out of pocket.""",English,,19,"March 6th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-greg-smith
+Jeremy Williams,Partner  ,Taylor and Preston,"VIC, Australia",,English,,5,"June 14th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-jeremy-williams
+Madeleine Smith,Criminal Solicitor  ,Taylor & Preston Lawyers,"VIC, Australia",,English,,5,"August 13th, 2013",12,https:/lawpath.com.au/lawyer-network/lawyer-madeleine-smith
+Richard Smallwood,Principal  ,Smallwoods Lawyers,"NSW, Australia",,English,,,"March 14th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-richard-smallwood
+Michael Smith,Principal Solicitor  ,Smiths Commercial Law,"NSW, Australia",,English,,"22,1991","December 3rd, 2013",15,https:/lawpath.com.au/lawyer-network/lawyer-michael-smith
+Brett Slater,Principal  ,Brett Slater Solicitors,"NSW, Australia",,English,,20,"September 26th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-brett-slater
+Colin Sloan,Director  ,Sloan Law Pty Limited,"NSW, Australia",,English,,17,"July 18th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-colin-sloan
+Janine Zylstra,Director  ,Brand Boutique Lawyers,"NSW, Australia",,English,,,"February 20th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-janine-zylstra
+Chiho Yoshikoshi,Principal Lawyer  ,Yoshikoshi & Associates Immigration Specialists,"VIC, Australia",,English,,9,"July 25th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-chiho-yoshikoshi
+Steven Taleski,Principal  ,NV Lawyers,"NSW, Australia"," ""NV Lawyers has a proven track record in debt recovery, corporate insolvency and bankruptcy.  We adopt a cost effective and pragmatic approach.  """,English,,12,"April 23rd, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-steven-taleski
+Sean Talty,Principal Solicitor  ,Talty Law,"NSW, Australia",,English,,,"July 11th, 2014",12,https:/lawpath.com.au/lawyer-network/lawyer-sean-talty--2
+Seamus Taaffe,Founder/Principal  ,Australia Here We Come Pty Ltd,"VIC, Australia (While based in Melbourne we are a national firm with clients Australiawide)",,English,,5,"September 12th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-seamus-taaffe
+Virma Symons,Principal  ,Symons and Co Legal,"WA, Australia",,English,,15,"August 27th, 2013",6,https:/lawpath.com.au/lawyer-network/lawyer-virma-symons
+Ian Tait,Owner  ,Tait & Co,"WA, Australia",,English,,30,"September 18th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-ian-tait
+Tracy Sweeny,Principal  ,Sweeny Legal IP & Commercial,"NSW, Australia,  UK,  US,  Asia,  New Zealand,  Europe"," ""We are a highly technical and creative niche boutique legal practice, providing Intellectual Property legal services, Media and Entertainment legal services, Brandsworth Licensing legal services, Innovation & Commercial legal services located in Wollongong. We specialise in intellectual property law and licensing a brands worth. A brand is the most valuable business asset. Brandsworth licensing is the perfect business tool for licensing or assigning intellectual property of all types. """,English,,21,"May 13th, 2014",4,https:/lawpath.com.au/lawyer-network/lawyer-tracy-sweeny
+Rohan Wallace,Principal  ,Rohan Wallace Patent and Trademark Services,"WA, Australia",,English,,17,"June 17th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-rohan-wallace
+Wendy Wan,Law Clerk; Registered Migration Agent  ,York & York Legal,"VIC, Australia",,"English, Mandarin",,,"March 14th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-wendy-wan
+Judy Swan,Special Counsel  ,KWS Legal,"NSW, South Africa,  New Zealand and Australia"," ""With a Bachelor of Arts (Honours) in Psychology and a Bachelor of Laws, my main interest is to assist people, companies and families in distress. Currently my main field of specialty is Employment Law, Family Law and Insolvency although I worked as a criminal lawyer and a commercial litigator previously.
+""","English, German, Other",,27,"June 11th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-judy-swan
+Melissa Vincenty,Senior Lawyer  ,Nevett Ford Lawyers,"NSW, U.S.,  Australian Foreign Registered Lawyer",,"Mandarin, German",,15,"August 12th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-melissa-vincenty
+Laura Vickers,Principal  ,Nest Legal,"VIC, Australia"," ""Laura is the details queen.  Her clients know that their documents are in safe hands with her freakish memory and attention to the fine print.  They love her clear advice and her relentless enthusiasm for fixing their problems.  Her firm Nest Legal is designed for busy people, offering legal advice after hours via Skype, email and telephone.  """,English,,6,"May 13th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-laura-vickers
+Gavin Viljoen,Principal  ,Viljoen Comino Solicitors,"NSW, Australia",,"English, Other",,20,"February 16th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-gavin-viljoen
+John Walker,Principal  ,Walker Legal and Conveyancing Taree,"NSW, Australia"," ""We are a small tight and committed team of legal professionals who pride ourselves on our ability to communicate with our clients and achieve good timely and efficient results. We do not do everything but what we do we do well.""","English, Other",,18,"August 5th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-john-walker
+Andrea Tsalamandris,Partner  ,Adviceline Injury Lawyers,"VIC, Australia",,English,,19,"July 31st, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-andrea-tsalamandris--2
+Mai Truong,Principal Solicitor  ,Mai Lawyers,"NSW, Australia",,English,,,"January 7th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-mai-truong
+Loren Suntup,Director & Notary Public  ,Morrigan Legal,"NSW, Australia"," ""Notary Public and Corporate Lawyer""","English, Other",,10,"February 12th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-loren-suntup
+Fiona Townend,Solicitor   ,Dettmann Longworth Lawyers ,"NSW, Australia ",,English,,18,"July 3rd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-fiona-townend
+Marcel Vaarzon Morel,Principal  ,Vaarzon-Morel Solicitors,"NSW, Australia and International "," ""Marcel and the Maritime and Commercial team strive to provide tailored legal solutions in a timely manner. As a boutique firm we are flexible ensuring our services best accommodates your needs. This flexibility, along with our unique blend of business and boating expertise, means that you will be getting a specialised and professional legal solution, without the irritation and expense of dealing with a large firms.""",English,,10,"August 20th, 2013",41,https:/lawpath.com.au/lawyer-network/lawyer-marcel-vaarzon-morel
+Danielle Torresan,Principal  ,Torresan Legal,"NSW, Australia",,English,,13,"July 11th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-danielle-torresan
+Chris Toogood,Legal Director  ,Essen Lawyers Pty Ltd,"QLD, Australia",,"English, Vietnamese",,,"April 21st, 2014",3,https:/lawpath.com.au/lawyer-network/lawyer-chris-toogood
+Terry Tomlin,Director Solicitor  ,Plus Law Pty Ltd,"NSW, Australia",,English,,12,"July 8th, 2014",11,https:/lawpath.com.au/lawyer-network/lawyer-terry-tomlin
+Kim Todd,Principal Solicitor  ,Todd Legal,"NSW, Australia",,English,,,"July 13th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-kim-todd
+Andrea Tomic,Principal Solicitor  ,Eckert Legal,"NSW, Australia",,"English, Cantonese, Spanish, Other",,,"September 24th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-andrea-tomic
+Tom Sawyer,  ,Barrister,"VIC, Australia,  Victoria",,English,,"10,18","June 17th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-tom-sawyer
+Luke Scandrett,Solicitor  ,Emil Ford Lawyers,"NSW, Australia",,English,,3,"August 27th, 2013",3,https:/lawpath.com.au/lawyer-network/lawyer-luke-scandrett
+Phillip Tiernan,Director  ,Tiernan Lawyers,"NSW, Australia",,English,,15,"July 31st, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-phillip-tiernan
+Mahrukh Mundul,  ,Fragomen,"NSW, Australia",,English,,,"May 16th, 2013",5,https:/lawpath.com.au/lawyer-network/lawyer-mahrukh-mundul
+Robert Saunders,Principal  ,Robert Saunders & Associates,"SA, Australia",,English,,,"September 16th, 2013",30,https:/lawpath.com.au/lawyer-network/lawyer-robert-saunders
+Gibson Owen,Principal  ,Lawfully,"NSW, Australia"," ""Trade marks are the essence of all business and if the great names ceased to be owned the related business would disappear. How do you grow with out a name and the associated goodwill and reputation. An unregistered name as a trade mark is unprotected. Are you looking for international business. How would an international client find you if unregistered.""",English,,25,"December 8th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-gibson-owen
+Damin Murdock,Principal Lawyer  ,MurdockCheng Legal Practice,"NSW, Australia"," ""I'm the Principal Lawyer of MurdockCheng Legal Practice. MCLP is a multi-disciplinary commercial law firm situated in the Sydney CBD. We act for individuals, start-ups, SMEs and publicly listed companies. 
+
+All consultations are at no cost to you and we endeavour to provide fixed fee prices where possible.""",English,,,"September 9th, 2013",36,https:/lawpath.com.au/lawyer-network/lawyer-damin-murdock
+Melanie Mullins,Solicitor  ,NQ Legal,"QLD, Australia",,English,,6,"June 12th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-melanie-mullins
+Marie Christine Oliver,Director  ,Astra Legal,"QLD, Australia",,,,,"March 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-marie-christine-oliver
+Adewale Oladejo,Principal  ,Visatec Legal ,"VIC, Australia"," ""Visatec Legal is a leading immigration law firm based in Melbourne.
+
+Areas of expertise include:
+
+> Employer sponsored visa (including 457, 186 & 187 visas)
+> Partner visas (including fiance, defacto and married partners
+>Student Visas and Graduate Visas
+>General skilled migration (including EOI) for skilled independent (189) and State sponsored (489 and 190)
+> MRT and Judicial appeals
+> Visa refusals and cancellations
+>Australian Citizenship 
+>Migration consultancy services""","English, Mandarin, Vietnamese",,14,"February 1st, 2014",13,https:/lawpath.com.au/lawyer-network/lawyer-adewale-oladejo
+Mark Northam,Principal Consultant  ,Northam & Associates,"NSW, Australia,  New Zealand",,English,,3,"September 13th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-mark-northam
+Tom O'brien,Principal Lawyer & Owner  ,O'Brien Law,"VIC, Australia",,English,,,"November 17th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-tom-o-brien
+Tash Nolan,Senior Associate  ,Tiernan Lawyers,"NSW, Australia",,English,,4,"July 30th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-tash-nolan
+Sharon Payne,Principal  ,Sharon Payne Family Lawyers,"NSW, Australia",,English,,10,"March 27th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-sharon-payne
+Lana Paxman,  ,Paxman and Paxman,"WA, Australia",,English,,,"January 25th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-lana-paxman--2
+Melanie Noble,Director  ,Switch Legal,"VIC, Australia",,English,,,"April 24th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-melanie-noble
+Anna Parker,Partner  ,Nicholes Family Lawyers,"VIC, Australia",,English,,,"May 7th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-anna-parker
+Gorica Panich,Principal  ,Codex Legal,"SA, Australia",,English,,4,"September 19th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-gorica-panich
+Andrea Pane,  ,Robert James Lawyers,"VIC, Australia",,English,,21,"February 20th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-andrea-pane
+Sheetal Pandhi,Asdfdfgfg  ,Harb Amir,"VIC, Australia",,English,,,"July 25th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-sheetal-pandhi
+Karen Pearson,Lawyer  ,Advantage Partnership Lawyers,"NSW, Australia",,"English, Other",,,"February 4th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-karen-pearson
+Stephen Page,Partner  ,Harrington Family Lawyers,"QLD, Australia",,English,,25,"July 24th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-stephen-page
+Kristian Larocca,Paralegal  ,Taylor & Preston Lawyers,"VIC, Australia",,English,,,"August 28th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-kristian-larocca
+Jade Lattimore,Director  ,Greenstone Legal,"WA, Australia",,English,,,"August 26th, 2014",4,https:/lawpath.com.au/lawyer-network/lawyer-jade-lattimore--2
+Greg Lane,Principal  ,Gill & Lane Solicitors,"QLD, Australia",,English,,33,"September 17th, 2013",8,https:/lawpath.com.au/lawyer-network/lawyer-greg-lane
+Brett Saunders,Principal  ,Saunders & Saunders Legal,"NSW, Australia,  China",,English,,15,"September 3rd, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-brett-saunders
+Darryl Richards,Director  ,Certus Legal Group,"QLD, Australia"," ""Certus Legal Group is a Commercial and Property Law firm with 4 distinct divisions.  Certus Conveyancing, Certus Property Lawyers, Certus Commercial Lawyers & Certus Wills and Estates.
+We have one of the largest and fastest growing conveyancing practices in Queensland.  Our property lawyers are experts in property development law from 2 units to 2000 lots.""","English, Mandarin",,10,"August 3rd, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-darryl-richards
+Samuel Rees,Solicitor  ,Ivan Poole Lawyers,"QLD, Australia"," ""Samuel Rees specialises in Franchising Law and Intellectual Property.
 Samuel is also experienced in drafting and reviewing Licence Agreements, Franchise Agreements and Distribution Agreements. He also practices in general Commercial law matters such as merges and acquisitions, leases and corporate structuring and structuring advice.
-Please do not hesitate to contact Samuel on 07) 5591 2522.""",/lawyer-network/lawyer-samuel-rees
-Director  ,,14,York & York Legal,"English, Mandarin",Kam Razmara,"March 14th, 2014",,"VIC, Au (and in the past UK and E, Australia"," ""We offer legal services to SMEs (from acquisitions and sales of businesses to contracts, leasing, employment and other day to day legal issues) both locally, nationally and internationally.  Whilst we must be profitable to stay in business, we are not in business just to make money.  We strive to build a sustainable business with satisfied clients.  """,/lawyer-network/lawyer-kam-razmara
-Legal Consultant  ,,,De Silva Legal,English,Rejinay Singh,"May 21st, 2014",,"NSW, Australia",,/lawyer-network/lawyer-rejinay-singh
-Solicitor  ,,,Koffels Solicitors & Barristers,"English, Other",Mobeena Singh,"May 8th, 2014",,"NSW, Australia"," ""Mobeena Singh has a specialist practice in compensation law, including state and federal workplace law, medical law, superannuation and insurance law, and general matters of negligence and social justice. She is dedicated to achieving successful outcomes for her clients, while acting on a no win/no fee basis and offering a no obligation initial consultation.""",/lawyer-network/lawyer-mobeena-singh
-Legal Secretary  ,,20,Sykes Pearson Miller Law (SPM Law),English,Sykes Pearson Miller Law,"October 23rd, 2013",,"QLD, Australia"," ""SPM Law - Your partners in life & law.""",/lawyer-network/lawyer-sykes-pearson-miller-law
-Partner  ,,23,J. Sagar Associates,English,Sajai Singh,"May 14th, 2013",,"INDIA, India, Australia",,/lawyer-network/lawyer-sajai-singh
-Lawyer  ,,,Adelaide Legal,"English, Other",Shavin Silva,"June 3rd, 2014",4,"SA, Australia",,/lawyer-network/lawyer-shavin-silva
-Principal  ,,,Abrahams Meese Lawyers,Russian,Dmitry Shtifelman,"March 14th, 2014",3,"VIC, Australia",,/lawyer-network/lawyer-dmitry-shtifelman
-Director  ,,11,Sewell & Kettle ,English,Ben Sewell,"February 26th, 2013",2,"NSW, Australia"," ""Sewell & Kettle Lawyers are trusted advisers to credit managers, accountants, entrepreneurs, transactional lawyers and in-house legal departments. We have a business mind-set and provide specialist advice in the following areas: 
-Credit management
-B2B debt recovery
-Commercial dispute resolution
-Strategic insolvency""",/lawyer-network/lawyer-ben-sewell
-Casual Solicitor  ,,,Teddington Legal,English,Navjot Singh,"May 9th, 2013",2,"NSW, Australia",,/lawyer-network/lawyer-navjot-singh
-Solicitor  ,,40,Russell Byrnes Solicitor,English,Hayder Shkara,"October 18th, 2013",32,"NSW, Australia",,/lawyer-network/lawyer-hayder-shkara
-Sole Practitioner  ,,6,Danielle Quinn,"English, Greek",Danielle Quinn,"April 29th, 2014",103,"NSW, Australia"," ""We have expertise in the following areas
+Please do not hesitate to contact Samuel on 07) 5591 2522.""",English,,,"February 25th, 2014",4,https:/lawpath.com.au/lawyer-network/lawyer-samuel-rees
+Kam Razmara,Director  ,York & York Legal,"VIC, Au (and in the past UK and E, Australia"," ""We offer legal services to SMEs (from acquisitions and sales of businesses to contracts, leasing, employment and other day to day legal issues) both locally, nationally and internationally.  Whilst we must be profitable to stay in business, we are not in business just to make money.  We strive to build a sustainable business with satisfied clients.  ""","English, Mandarin",,14,"March 14th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-kam-razmara
+Megan Puszkar,Principal Lawyer  ,Macedon Ranges Family Law,"VIC, Australia",,English,,"7,8","July 26th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-megan-puszkar
+Byron Pugh,Director Lawyer  ,AVP Brisbane,"QLD, Australia",,English,,,"February 14th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-byron-pugh
+Roshan Punwani,,,,,English,,,"May 8th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-roshan-punwani
+Danielle Quinn,Sole Practitioner  ,Danielle Quinn,"NSW, Australia"," ""We have expertise in the following areas
 •Wills & Probate and Estate Administration including Family Provision and Disputes
 •Criminal
 •Family
@@ -174,83 +265,8 @@ Sole Practitioner  ,,6,Danielle Quinn,"English, Greek",Danielle Quinn,"April 29t
 We provide the following services:
 •Provide you with a high standard of legal services 
 •Listen to you carefully and understand your needs 
-•Establish a close working relationship with""",/lawyer-network/lawyer-danielle-quinn
-Principal Lawyer  ,,"7,8",Macedon Ranges Family Law,English,Megan Puszkar,"July 26th, 2013",,"VIC, Australia",,/lawyer-network/lawyer-megan-puszkar
-Principal  ,,20,Stevens & Associates Lawyers,English,Nick Stevens,"May 17th, 2013",5,"NSW, I am also admitted as a solicitor in England and Wales , Australia"," ""Our Mission is to provide our clients with a ""Vision"" in the workplace. This Vision is delivered to clients in a timely and professional manner, by way of practical solutions and strategies in all aspects of industrial relations and employment law.""",/lawyer-network/lawyer-nick-stevens
-Senior Associate  ,,6,Deutsch Miller,English,Chris Stevens,"April 15th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-chris-stevens
-Partner   ,,9,Andersons Solicitors ,English,Ryan Thomas,"June 25th, 2013",14,"SA, Australia",,/lawyer-network/lawyer-ryan-thomas
-Director   ,,7,Boutique Lawyers ,English,Olivia Terziovski,"November 12th, 2013",8,"VIC, Australia "," ""Building Lawyers for Home Owners
-We do one thing really well and thats represent Home Owners we offer Value Billing so you get certainty. 
-""",/lawyer-network/lawyer-olivia-terziovski
-Director  ,,15,Toogoods Migration,English,Andrew Taylor,"September 11th, 2013",7,"QLD, Worldwide, Australia",,/lawyer-network/lawyer-andrew-taylor--2
-  ,,2,The AT Group,English,Aaron Taranto,"February 19th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-aaron-taranto
-Associate  ,,4,Ivan Poole Lawyers,English,Peter Thelwell,"February 25th, 2014",1,"QLD, Australia"," ""Peter Thelwell has been practising in Franchising and Intellectual Property Law for over four years. Peter is on the Queensland Law Society Franchising Committee and is a member of the Franchising Council of Australia.
-Peter's experience extends to Trade Mark applications for Countries all over the world.
-
-In addition to Franchising and Intellectual Property Law Peter is an immigration agent. """,/lawyer-network/lawyer-peter-thelwell
-Solicitor  ,,2,MacGregor O'Reilly,English,Morgan Tanswell,"September 25th, 2013",1,"QLD, Australia"," ""MacGregor O'Reilly Solicitors is a boutique law firm situated in Surfers Paradise, Queensland.  I personally specialise in employee relations, commercial disputes and wills and estates.  Our other lawyers deal with family law, property law, commercial litigation and finance law.  """,/lawyer-network/lawyer-morgan-tanswell
-Principal Solicitor  ,,,Talty Law,English,Sean Talty,"July 11th, 2014",12,"NSW, Australia",,/lawyer-network/lawyer-sean-talty--2
-Director/Registered M Igration Agent  ,,,KWS Migration,"English, Mandarin, Cantonese, Portugese / Brasilero, German",Jarred Stein,"June 11th, 2014",2,"NSW, Australia",,/lawyer-network/lawyer-jarred-stein
-Principal Lawyer  ,,20,SVC LEGAL AUSTRALIA,"English, Mandarin",Alex Tees,"October 8th, 2014",43,"NSW, Australia"," ""SVC Legal Australia is an Australian based law firm providing a wide range of legal services. Incorporated within our firm we have Syd Venture Capital a Migration and Business Consultancy firm.
-
-We are highly respected within the legal and migration profession and are renowned for its high success rate, commitment and quality in providing cost effective and innovative solutions for clients.""",/lawyer-network/lawyer-alex-tees
-Principal  ,,17,Rohan Wallace Patent and Trademark Services,English,Rohan Wallace,"June 17th, 2013",1,"WA, Australia",,/lawyer-network/lawyer-rohan-wallace
-Principal Solicitor  ,,6,Steiner Legal,English,Erin Steiner,"July 17th, 2013",4,"NSW, Australia",,/lawyer-network/lawyer-erin-steiner
-Director  ,,29,Spencer & Co Legal ,English,Keith Spencer,"July 9th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-keith-spencer
-Lawyer  ,,,Law Plus,English,Laurinda Wellings,"June 11th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-laurinda-wellings
-Principal  ,,18,Walker Legal and Conveyancing Taree,"English, Other",John Walker,"August 5th, 2014",1,"NSW, Australia"," ""We are a small tight and committed team of legal professionals who pride ourselves on our ability to communicate with our clients and achieve good timely and efficient results. We do not do everything but what we do we do well.""",/lawyer-network/lawyer-john-walker
-Owner / Principal  ,,5,Just Dispute Resolution,English,Bede Webster,"March 27th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-bede-webster
-Senior Associate  ,,14,Broadley Rees Hogan Lawyers,English,Scott Webb,"July 25th, 2014",2,"QLD, Australia",,/lawyer-network/lawyer-scott-webb
-Partner  ,,,FAL Lawyers,English,Jason Watson,"July 30th, 2013",2,"VIC, Australia",,/lawyer-network/lawyer-jason-watson
-Accountant  ,,,DC Balog & Associates,English,Kym Yeomans,"December 3rd, 2013",,"NSW, Australia",,/lawyer-network/lawyer-kym-yeomans
-Solicitor   ,,1,Dettmann Longworth Lawyers ,English,Vanessa Wang,"July 3rd, 2013",,"QLD, Australia ",,/lawyer-network/lawyer-vanessa-wang
-Managing Partner  ,,5,KWS Legal,English,Harriet Warlow Shill,"September 17th, 2013",30,"NSW, Australia,  Israel",,/lawyer-network/lawyer-harriet-warlow-shill
-Law Clerk; Registered Migration Agent  ,,,York & York Legal,"English, Mandarin",Wendy Wan,"March 14th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-wendy-wan
-Director  ,,14,WF Yau Lawyers,"English, Mandarin, Cantonese",Emily Yau,"October 2nd, 2014",,"QLD, Hong Kong,  Australia",,/lawyer-network/lawyer-emily-yau
-Lawyer  ,,,WF Yau Lawyers,"English, Mandarin, Cantonese, Other",Nicholas Yau,"October 2nd, 2014",,"QLD, Australia",,/lawyer-network/lawyer-nicholas-yau
-Director  ,,,Brand Boutique Lawyers,English,Janine Zylstra,"February 20th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-janine-zylstra
-Principal  ,,,zindilis lawyers,"English, Mandarin, Italian, Cantonese, Greek, Spanish, Other",George Zindilis,"July 29th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-george-zindilis
-Solicitor  ,,3,WU,English,Yunfei Wu,"June 18th, 2013",17,"VIC, Australia,  China",,/lawyer-network/lawyer-yunfei-wu
-Solicitor  ,,10,HHG Legal Group,English,Nicole Young,"February 5th, 2014",19,"WA, Australia",,/lawyer-network/lawyer-nicole-young
-Principal Lawyer  ,,9,Yoshikoshi & Associates Immigration Specialists,English,Chiho Yoshikoshi,"July 25th, 2013",2,"VIC, Australia",,/lawyer-network/lawyer-chiho-yoshikoshi
-,,,,English,James Yianoulatos,"February 6th, 2014",,,,/lawyer-network/lawyer-james-yianoulatos
-Principal  ,,10,Dodd & Crossett,English,Jared Zak,"September 18th, 2014",9,"NSW, Australia"," ""Ex-Mallesons, ex-Allen Overy solicitor will strong commercial background. """,/lawyer-network/lawyer-jared-zak
-,,14,,English,Lynda Young,"January 31st, 2014",,,,/lawyer-network/lawyer-lynda-young
-,,,,"English, Spanish",Shane Wescott,"August 15th, 2014",11,,,/lawyer-network/lawyer-shane-wescott
-Partner  ,,10,Hunt & Hunt Lawyers,English,Russell Wiese,"September 26th, 2014",2,"VIC, Australia"," ""Russell is a commercial lawyer with a strong focus on customs and global trade.  
-
-Russell assists importers, exporters, customs brokers and freight forwarders with issues involving Australian Customs, commercial agreements relating to international trade and resolving dispute between different parties in international supply chains.""",/lawyer-network/lawyer-russell-wiese
-Senior Lawyer  ,,15,Nevett Ford Lawyers,"Mandarin, German",Melissa Vincenty,"August 12th, 2014",,"NSW, U.S.,  Australian Foreign Registered Lawyer",,/lawyer-network/lawyer-melissa-vincenty
-Principal  ,,6,Nest Legal,English,Laura Vickers,"May 13th, 2014",2,"VIC, Australia"," ""Laura is the details queen.  Her clients know that their documents are in safe hands with her freakish memory and attention to the fine print.  They love her clear advice and her relentless enthusiasm for fixing their problems.  Her firm Nest Legal is designed for busy people, offering legal advice after hours via Skype, email and telephone.  """,/lawyer-network/lawyer-laura-vickers
-Principal  ,,20,Viljoen Comino Solicitors,"English, Other",Gavin Viljoen,"February 16th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-gavin-viljoen
-Partner  ,,10,Ross & Daniels Lawyers,English,Drew Woods,"March 28th, 2013",30,"VIC, Australia"," ""Principal Lawyer and co-founder of Ross & Daniels Lawyers. 
-
-A small commercial law firm practicing in the areas of litigation, insolvency, commercial and property law. Our focus is assisting small business owners from start-up to managing all aspects of their currently trading business through to establishing and finalising a succession plan or sale. We also assist business owners in their own personal capacity through estate planning, asset protection and property transactions.""",/lawyer-network/lawyer-drew-woods
-Partner  ,,19,Adviceline Injury Lawyers,English,Andrea Tsalamandris,"July 31st, 2013",2,"VIC, Australia",,/lawyer-network/lawyer-andrea-tsalamandris--2
-Principal Solicitor  ,,,Mai Lawyers,English,Mai Truong,"January 7th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-mai-truong
-Principal  ,,10,Vaarzon-Morel Solicitors,English,Marcel Vaarzon Morel,"August 20th, 2013",41,"NSW, Australia and International "," ""Marcel and the Maritime and Commercial team strive to provide tailored legal solutions in a timely manner. As a boutique firm we are flexible ensuring our services best accommodates your needs. This flexibility, along with our unique blend of business and boating expertise, means that you will be getting a specialised and professional legal solution, without the irritation and expense of dealing with a large firms.""",/lawyer-network/lawyer-marcel-vaarzon-morel
-Solicitor   ,,18,Dettmann Longworth Lawyers ,English,Fiona Townend,"July 3rd, 2013",,"NSW, Australia ",,/lawyer-network/lawyer-fiona-townend
-Legal Director  ,,,Essen Lawyers Pty Ltd,"English, Vietnamese",Chris Toogood,"April 21st, 2014",3,"QLD, Australia",,/lawyer-network/lawyer-chris-toogood
-Principal  ,,13,Torresan Legal,English,Danielle Torresan,"July 11th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-danielle-torresan
-Partner  ,,5,Taylor and Preston,English,Jeremy Williams,"June 14th, 2013",2,"VIC, Australia",,/lawyer-network/lawyer-jeremy-williams
-Principal Solicitor  ,,,Todd Legal,English,Kim Todd,"July 13th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-kim-todd
-Principal Solicitor  ,,,Eckert Legal,"English, Cantonese, Spanish, Other",Andrea Tomic,"September 24th, 2014",1,"NSW, Australia",,/lawyer-network/lawyer-andrea-tomic
-Director Solicitor  ,,12,Plus Law Pty Ltd,English,Terry Tomlin,"July 8th, 2014",11,"NSW, Australia",,/lawyer-network/lawyer-terry-tomlin
-Director  ,,15,Tiernan Lawyers,English,Phillip Tiernan,"July 31st, 2013",,"NSW, Australia",,/lawyer-network/lawyer-phillip-tiernan
-  ,,,Solari & Stock,English,Michael Solari,"February 15th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-michael-solari
-Managing Partner  ,,20,Sykes Pearson Miller Law (SPM Law),English,Michael Sobey,"May 30th, 2014",1,"QLD, Australia"," ""Michael specialises in retail and commercial leasing, management rights, body corporate, commercial property, business sales, and business structuring.""",/lawyer-network/lawyer-michael-sobey
-,,,,English,Roshan Punwani,"May 8th, 2014",,,,/lawyer-network/lawyer-roshan-punwani
-Director Lawyer  ,,,AVP Brisbane,English,Byron Pugh,"February 14th, 2014",,"QLD, Australia",,/lawyer-network/lawyer-byron-pugh
-Lawyer  ,,5,MBT Lawyers,English,Angus Smyth,"April 30th, 2014",,"NSW, Australia"," ""Your work, your home, your family and your future are all impacted by the long arm of the law. I enjoy working with my clients to find simple and cost effective solutions to a range of legal issues.""",/lawyer-network/lawyer-angus-smyth
-Lawyer  ,,,KWS Legal,"English, Other",Nadav Prawer,"June 11th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-nadav-prawer
-Managing Director  ,,10,Neumann & Turnour,English,Stephen Potts,"July 22nd, 2014",20,"QLD, Australia"," ""Stephen is a family lawyer and Managing Director of Neumann & Turnour.  His practice focuses on family law disputes and resolution with extensive experience in complex property settlements involving private and publicly listed companies, trusts and partnerships.   Stephen advises clients in relation to children’s disputes and care arrangements, child support, child protection and specific issues such as interstate and international relocation, international child abduction and overseas travel.""",/lawyer-network/lawyer-stephen-potts
-Lawyer  ,,6,Adviceline Injury Lawyers,English,David Schwartz,"July 31st, 2013",,"VIC, Australia",,/lawyer-network/lawyer-david-schwartz
-Solicitor  ,,3,Emil Ford Lawyers,English,Luke Scandrett,"August 27th, 2013",3,"NSW, Australia",,/lawyer-network/lawyer-luke-scandrett
-  ,,"10,18",Barrister,English,Tom Sawyer,"June 17th, 2013",1,"VIC, Australia,  Victoria",,/lawyer-network/lawyer-tom-sawyer
-Owner  ,,27,Lloyd & Lloyd,English,Patrick See,"November 26th, 2013",6,"NSW, Australia"," ""legal advice areas include commercial, contracts, real estate, property, wills and estates, Family Law,""",/lawyer-network/lawyer-patrick-see
-Director  ,,17,HHG Legal Group,English,Murray Thornhill,"July 30th, 2013",66,"WA, Australia",,/lawyer-network/lawyer-murray-thornhill
-Principal  ,,15,Saunders & Saunders Legal,English,Brett Saunders,"September 3rd, 2013",2,"NSW, Australia,  China",,/lawyer-network/lawyer-brett-saunders
-"Director, Legal  ",,10,Virtual Law Office,"English, French",Talie Ryan,"February 13th, 2014",,"NSW, Australia"," ""Virtual Law office provides modern client-friendly legal services using: 
+•Establish a close working relationship with""","English, Greek",,6,"April 29th, 2014",104,https:/lawpath.com.au/lawyer-network/lawyer-danielle-quinn
+Talie Ryan,"Director, Legal  ",Virtual Law Office,"NSW, Australia"," ""Virtual Law office provides modern client-friendly legal services using: 
  	
 LEGAL knowledge and experience 
 
@@ -259,208 +275,151 @@ LEGAL knowledge and experience
 + COMMERCIAL GOALS balanced with legal risk. 
 
 Our specialties include law for start-ups, on-going businesses and businesses in the technology sector.
-""",/lawyer-network/lawyer-talie-ryan
-Principal  ,,,Rosen Lawyers,English,Warren Rosen,"April 28th, 2014",1,"QLD, Australia",,/lawyer-network/lawyer-warren-rosen
-Managing Partner  ,,10,Rouse Lawyers,English,Matthew Rouse,"October 1st, 2013",1,"QLD, Australia (QLD & NSW)",,/lawyer-network/lawyer-matthew-rouse
-Principal  ,,,Robert Saunders & Associates,English,Robert Saunders,"September 16th, 2013",30,"SA, Australia",,/lawyer-network/lawyer-robert-saunders
-Principal   ,,,PCR Law & Associates ,"English, French, Vietnamese",Phillip Roberts,"May 30th, 2014",5,"NSW, Australia",,/lawyer-network/lawyer-phillip-roberts
-Director  ,,,Informed Conveyancing Lawyers,English,Suzanne Roberts,"May 16th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-suzanne-roberts
-Solicitor Director  ,,,Ronayne Owens Lawyers,English,Alex Ronayne,"March 6th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-alex-ronayne
-Principal  ,,12,NV Lawyers,English,Steven Taleski,"April 23rd, 2014",,"NSW, Australia"," ""NV Lawyers has a proven track record in debt recovery, corporate insolvency and bankruptcy.  We adopt a cost effective and pragmatic approach.  """,/lawyer-network/lawyer-steven-taleski
-Principal Lawyer  ,,10,DMWR Partners,English,Jonathen Rosen,"November 3rd, 2013",10,"VIC, Australia"," ""DMWR Partners
+""","English, French",,10,"February 13th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-talie-ryan
+Nadav Prawer,Lawyer  ,KWS Legal,"VIC, Australia",,"English, Other",,,"June 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-nadav-prawer
+Warren Rosen,Principal  ,Rosen Lawyers,"QLD, Australia",,English,,,"April 28th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-warren-rosen
+Matthew Rouse,Managing Partner  ,Rouse Lawyers,"QLD, Australia (QLD & NSW)",,English,,10,"October 1st, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-matthew-rouse
+Nicholas Milne,Firm Manager  ,Baxter IP Patent and Trademark Attorneys,"NSW, Australia",,English,,,"April 30th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-nicholas-milne
+Jonathen Rosen,Principal Lawyer  ,DMWR Partners,"VIC, Australia"," ""DMWR Partners
 Lawyers & Advisors
 
-""",/lawyer-network/lawyer-jonathen-rosen
-Director  ,,10,Certus Legal Group,"English, Mandarin",Darryl Richards,"August 3rd, 2014",2,"QLD, Australia"," ""Certus Legal Group is a Commercial and Property Law firm with 4 distinct divisions.  Certus Conveyancing, Certus Property Lawyers, Certus Commercial Lawyers & Certus Wills and Estates.
-We have one of the largest and fastest growing conveyancing practices in Queensland.  Our property lawyers are experts in property development law from 2 units to 2000 lots.""",/lawyer-network/lawyer-darryl-richards
-Founder/Principal  ,,5,Australia Here We Come Pty Ltd,English,Seamus Taaffe,"September 12th, 2013",1,"VIC, Australia (While based in Melbourne we are a national firm with clients Australiawide)",,/lawyer-network/lawyer-seamus-taaffe
-Special Counsel  ,,27,KWS Legal,"English, German, Other",Judy Swan,"June 11th, 2014",2,"NSW, South Africa,  New Zealand and Australia"," ""With a Bachelor of Arts (Honours) in Psychology and a Bachelor of Laws, my main interest is to assist people, companies and families in distress. Currently my main field of specialty is Employment Law, Family Law and Insolvency although I worked as a criminal lawyer and a commercial litigator previously.
-""",/lawyer-network/lawyer-judy-swan
-Owner  ,,30,Tait & Co,English,Ian Tait,"September 18th, 2013",,"WA, Australia",,/lawyer-network/lawyer-ian-tait
-Principal  ,,21,Sweeny Legal IP & Commercial,English,Tracy Sweeny,"May 13th, 2014",4,"NSW, Australia,  UK,  US,  Asia,  New Zealand,  Europe"," ""We are a highly technical and creative niche boutique legal practice, providing Intellectual Property legal services, Media and Entertainment legal services, Brandsworth Licensing legal services, Innovation & Commercial legal services located in Wollongong. We specialise in intellectual property law and licensing a brands worth. A brand is the most valuable business asset. Brandsworth licensing is the perfect business tool for licensing or assigning intellectual property of all types. """,/lawyer-network/lawyer-tracy-sweeny
-Partner  ,,19,Smith's Lawyers,English,Greg Smith,"March 6th, 2014",1,"QLD, Australia"," ""Smith's Lawyers are a QLD personal injury law firm offering a unique No Win. No Fee. No Catch.™ promise. With most 'No Win, No Fee' lawyers you may have to pay the other sides costs if you go to court and lose. With Smith's Lawyers there is no catch and you will never be left out of pocket.""",/lawyer-network/lawyer-greg-smith
-Principal  ,,15,Symons and Co Legal,English,Virma Symons,"August 27th, 2013",6,"WA, Australia",,/lawyer-network/lawyer-virma-symons
-Criminal Solicitor  ,,5,Taylor & Preston Lawyers,English,Madeleine Smith,"August 13th, 2013",12,"VIC, Australia",,/lawyer-network/lawyer-madeleine-smith
-Principal  ,,,Smallwoods Lawyers,English,Richard Smallwood,"March 14th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-richard-smallwood
-Principal Solicitor  ,,"22,1991",Smiths Commercial Law,English,Michael Smith,"December 3rd, 2013",15,"NSW, Australia",,/lawyer-network/lawyer-michael-smith
-Principal  ,,20,Brett Slater Solicitors,English,Brett Slater,"September 26th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-brett-slater
-Director  ,,17,Sloan Law Pty Limited,English,Colin Sloan,"July 18th, 2013",2,"NSW, Australia",,/lawyer-network/lawyer-colin-sloan
-Principal Director  ,,,acs legal Solutions,English,Maree Slingsby,"July 5th, 2014",1,"QLD, Australia",,/lawyer-network/lawyer-maree-slingsby
-Director & Notary Public  ,,10,Morrigan Legal,"English, Other",Loren Suntup,"February 12th, 2014",,"NSW, Australia"," ""Notary Public and Corporate Lawyer""",/lawyer-network/lawyer-loren-suntup
-Asdfdfgfg  ,,,Harb Amir,English,Sheetal Pandhi,"July 25th, 2014",1,"VIC, Australia",,/lawyer-network/lawyer-sheetal-pandhi
-Chief Legal Advisor  ,,40,Disputes Settlement Trust,English,Raminder Singh Sahota,"July 16th, 2013",,India,,/lawyer-network/lawyer-raminder-singh-sahota
-Partner  ,,25,Harrington Family Lawyers,English,Stephen Page,"July 24th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-stephen-page
-Lawyer  ,,,Ferguson Cannon Lawyers,English,Michael Owens,"February 5th, 2014",1,"QLD, Australia",,/lawyer-network/lawyer-michael-owens
-Principal  ,,12,Artur Stuart Legal,English,Artur Stuart,"July 23rd, 2013",54,"VIC, Australia",,/lawyer-network/lawyer-artur-stuart
-Ceo & Principal Migration Consultant  ,,10,MMMigration,English,Melanie Macfarlane,"September 18th, 2013",2,"NSW, Australia",,/lawyer-network/lawyer-melanie-macfarlane
-Barrister  ,,,Selborne Chambers,English,Patrick Lott,"November 6th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-patrick-lott
-Senior Associate  ,,7,KWS Legal,English,Lian Mabee,"June 11th, 2014",,"NSW, Australia"," ""Lian is a senior lawyer with a range of experience in Corporate law, Business and Trust Structuring including investments involving Superannuation funds, Commercial litigation, Employment law, Business succession, Wills and Probate law. Prior to her time at KWS Legal, Lian worked as a lawyer specialising in Commercial Litigation and Commercial law at the boutique commercial city firm Atanaskovic Hartnell and also as an in-house legal executive at the aircraft leasing firm AWAS.""",/lawyer-network/lawyer-lian-mabee
-Principal  ,,10,L&A Lau Partnership,English,Lawrence Luke Lau,"April 7th, 2013",,"NSW, international paralegal, Australia",,/lawyer-network/lawyer-lawrence-luke-lau
-Partner  ,,35,Andersons Solicitors,English,Dion Mccaffrie,"June 26th, 2013",,"SA, Australia",,/lawyer-network/lawyer-dion-mccaffrie
-Special Counsel  ,,13,Adviceline Injury Lawyers,English,Lisa Maynard,"August 1st, 2013",,"VIC, Australia",,/lawyer-network/lawyer-lisa-maynard
-Principal  ,,8,Base Legal,English,Fiona Mc Cord,"July 11th, 2014",,"VIC, Australia"," ""I am a sole practitioner operating under the name Base Legal.  Base Legal offers specialised and tailored legal advice, assistance and representation to small and medium businesses.  I provide practical, down to earth advice and assistance at an affordable price.  
+""",English,,10,"November 3rd, 2013",10,https:/lawpath.com.au/lawyer-network/lawyer-jonathen-rosen
+Alex Ronayne,Solicitor Director  ,Ronayne Owens Lawyers,"NSW, Australia",,English,,,"March 6th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-alex-ronayne
+Jason Marcus,Senior Associate   ,Thomsons Lawyers,"NSW, Australia "," ""I am a Senior Associate in the Thomsons Lawyers Sydney Corporate team.
 
-I have a breadth of knowledge across commercial law, corporate governance, litigation, criminal  law, insolvency, financial services, and regulation.   I believe in providing uncomplicated and practical assistance.""",/lawyer-network/lawyer-fiona-mccord
-  ,,,Fragomen,English,Karen Mathie,"May 16th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-karen-mathie
-Principal   ,,,LMK lawyers,English,Lee Mc Callum,"November 8th, 2014",1,"QLD, Australia",,/lawyer-network/lawyer-lee-mccallum
-Partner  ,,,Mathey Solicitors,English,Tara Mathey,"August 7th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-tara-mathey
-Solicitor  ,,,Neumann & Turnour,English,Chris Mills,"August 26th, 2014",9,"QLD, Australia"," ""Chris Mills is a Solicitor in Neumann & Turnour’s Litigation division. He has wide-ranging experience in the Queensland courts and tribunals, as well as the federal Administrative Appeals Tribunal. Chris is a tenacious advocate and an innovative problem-solver, bringing a fresh approach and unique strategies to difficult situations.""",/lawyer-network/lawyer-chris-mills
-Senior Associate   ,,10,Thomsons Lawyers,English,Jason Marcus,"February 6th, 2014",3,"NSW, Australia "," ""I am a Senior Associate in the Thomsons Lawyers Sydney Corporate team.
+My experience is in a wide range of corporate and commercial transactions, including; mergers, acquisitions, divestments, capital raisings, initial public offerings, takeovers, schemes of arrangement and commercial due diligence.""",English,,10,"February 6th, 2014",3,https:/lawpath.com.au/lawyer-network/lawyer-jason-marcus
+Kristi Mc Cusker,Principal  ,Kenny Spring Solicitors,"NSW, Australia",,English,,11,"April 4th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-kristi-mccusker
+Terry Mc Cowan,Lawyer  ,Legal Wisdom,"NSW, Australia",,,,,"February 25th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-terry-mccowan
+Fiona Mc Cord,Principal  ,Base Legal,"VIC, Australia"," ""I am a sole practitioner operating under the name Base Legal.  Base Legal offers specialised and tailored legal advice, assistance and representation to small and medium businesses.  I provide practical, down to earth advice and assistance at an affordable price.  
 
-My experience is in a wide range of corporate and commercial transactions, including; mergers, acquisitions, divestments, capital raisings, initial public offerings, takeovers, schemes of arrangement and commercial due diligence.""",/lawyer-network/lawyer-jason-marcus
-Partner  ,,19,Deutsch Miller,English,Paul Miller,"May 16th, 2013",25,"NSW, Australia"," ""Paul has gained significant experience as a corporate/commercial partner working in both London and Sydney.
+I have a breadth of knowledge across commercial law, corporate governance, litigation, criminal  law, insolvency, financial services, and regulation.   I believe in providing uncomplicated and practical assistance.""",English,,8,"July 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-fiona-mccord
+Dion Mccaffrie,Partner  ,Andersons Solicitors,"SA, Australia",,English,,35,"June 26th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-dion-mccaffrie
+Lisa Maynard,Special Counsel  ,Adviceline Injury Lawyers,"VIC, Australia",,English,,13,"August 1st, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-lisa-maynard
+Karen Mathie,  ,Fragomen,"NSW, Australia",,English,,,"May 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-karen-mathie
+Lee Mc Callum,Principal   ,LMK lawyers,"QLD, Australia",,English,,,"November 8th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-lee-mccallum
+Pat Marciano,Solicitor  ,Marciano Lawyers,"SA, Australia ",,English,,8,"March 4th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-pat-marciano
+Tara Mathey,Partner  ,Mathey Solicitors,"NSW, Australia",,English,,,"August 7th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-tara-mathey
+Darlington Makura,Lawyer  ,Exodus Lawyers,"NSW, Australia",,"English, Other",,,"August 29th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-darlington-makura
+Emma Mackey,Director  ,Mackey Lawyers Pty Ltd,"VIC, Australia",,,,,"February 10th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-emma-mackey
+Melanie Macfarlane,Ceo & Principal Migration Consultant  ,MMMigration,"NSW, Australia",,English,,10,"September 18th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-melanie-macfarlane
+Gerald Manoharan,Partner  ,J. Sagar Associates,"INDIA, India, Australia",,English,,,"May 16th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-gerald-manoharan
+Chris Mills,Solicitor  ,Neumann & Turnour,"QLD, Australia"," ""Chris Mills is a Solicitor in Neumann & Turnour’s Litigation division. He has wide-ranging experience in the Queensland courts and tribunals, as well as the federal Administrative Appeals Tribunal. Chris is a tenacious advocate and an innovative problem-solver, bringing a fresh approach and unique strategies to difficult situations.""",English,,,"August 26th, 2014",9,https:/lawpath.com.au/lawyer-network/lawyer-chris-mills
+Lawrence Luke Lau,Principal  ,L&A Lau Partnership,"NSW, international paralegal, Australia",,English,,10,"April 7th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-lawrence-luke-lau
+Lian Mabee,Senior Associate  ,KWS Legal,"NSW, Australia"," ""Lian is a senior lawyer with a range of experience in Corporate law, Business and Trust Structuring including investments involving Superannuation funds, Commercial litigation, Employment law, Business succession, Wills and Probate law. Prior to her time at KWS Legal, Lian worked as a lawyer specialising in Commercial Litigation and Commercial law at the boutique commercial city firm Atanaskovic Hartnell and also as an in-house legal executive at the aircraft leasing firm AWAS.""",English,,7,"June 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-lian-mabee
+Paul Miller,Partner  ,Deutsch Miller,"NSW, Australia"," ""Paul has gained significant experience as a corporate/commercial partner working in both London and Sydney.
 Paul specialisations include mergers and acquisitions , capital raisings, flotations, venture capital/private equity, MBOs/MBIs, shareholders agreements/joint ventures, inbound investment, restructuring, Employee Share Plans, corporate governance and commercial contracts.
-Paul has extensive experience in advising technology companies and companies in the online space.""",/lawyer-network/lawyer-paul-miller
-Director  ,,,Charter Conveyancing,"English, Mandarin, Cantonese, Other",Brad Mifsud,"May 6th, 2014",,"QLD, Australia",,/lawyer-network/lawyer-brad-mifsud
-Partner  ,,20,Sykes Pearson Miller Lawyers ( SPM Law),English,Jed Mc Namara,"September 23rd, 2013",1,"QLD, Australia"," ""Jed McNamara's chosen areas of specialty are litigation, family law and personal injury law.""",/lawyer-network/lawyer-jed-mcnamara
-Principal  ,,46,Patrick Cash & Associates,English,Peter Mecoles,"September 19th, 2013",24,"VIC, Australia"," ""I give sound advice, prompt attention and always return calls and emails!""",/lawyer-network/lawyer-peter-mecoles
-Principal  ,,11,Kenny Spring Solicitors,English,Kristi Mc Cusker,"April 4th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-kristi-mccusker
-Principal  ,,14,Anne McDonald & Associates,English,Anne Mc Donald,"August 20th, 2014",,"NSW, Australia"," ""We provide expert legal advice and value for money.  With over 12 years experience in a CBD law firm in Sydney, we provide city experience without the city prices""",/lawyer-network/lawyer-anne-mcdonald
-Principal  ,,20,McDonald Lawyers,English,Tim Mc Donald,"November 18th, 2013",12,"VIC, Australia",,/lawyer-network/lawyer-tim-mcdonald
-Proprietor  ,,33,Tony,English,Tony Laumberg,"August 12th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-tony-laumberg
-Paralegal  ,,,Taylor & Preston Lawyers,English,Kristian Larocca,"August 28th, 2013",,"VIC, Australia",,/lawyer-network/lawyer-kristian-larocca
-Director  ,,,Greenstone Legal,English,Jade Lattimore,"August 26th, 2014",4,"WA, Australia",,/lawyer-network/lawyer-jade-lattimore--2
-Principal  ,,33,Gill & Lane Solicitors,English,Greg Lane,"September 17th, 2013",8,"QLD, Australia",,/lawyer-network/lawyer-greg-lane
-Director  Dispute Resolution  ,,28,Access Law Group,English,Graham Lancaster,"June 6th, 2013",11,"NSW, Australia",,/lawyer-network/lawyer-graham-lancaster
-Principal  ,,25,David Naidoo & Associates,English,David Naidoo,"September 18th, 2013",1,"VIC, Australia",,/lawyer-network/lawyer-david-naidoo
-  ,,,J. Sagar Associates,English,Shivpriya Nanda,"May 16th, 2013",,"INDIA, India, Australia",,/lawyer-network/lawyer-shivpriya-nanda
-Practice Manager  ,,13,Mothers in Law Lawyers,English,Aaron Nadel,"August 29th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-aaron-nadel
-Principal Lawyer & Owner  ,,,O'Brien Law,English,Tom O'brien,"November 17th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-tom-o-brien
-  ,,,Fragomen,English,Mahrukh Mundul,"May 16th, 2013",5,"NSW, Australia",,/lawyer-network/lawyer-mahrukh-mundul
-,,,,English,Josh Murphy,"August 29th, 2013",1,,,/lawyer-network/lawyer-josh-murphy
-Solicitor  ,,6,NQ Legal,English,Melanie Mullins,"June 12th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-melanie-mullins
-Principal  ,,25,Lawfully,English,Gibson Owen,"December 8th, 2013",,"NSW, Australia"," ""Trade marks are the essence of all business and if the great names ceased to be owned the related business would disappear. How do you grow with out a name and the associated goodwill and reputation. An unregistered name as a trade mark is unprotected. Are you looking for international business. How would an international client find you if unregistered.""",/lawyer-network/lawyer-gibson-owen
-Principal  ,,12,william mulholland + co lawyers,English,William Mulholland,"February 11th, 2014",56,"VIC, Australia"," ""We are a  firm of commercial and IP lawyers providing quality legal services to private clients, business, SME's, companies and charitable organisations.  We want to make the law less of a trial for you and your business with the aim of building an ongoing relationship with all of our clients and aim at helping you to understand all your rights and obligations, so we can help you make sense from the complexities and confusion of the law.""",/lawyer-network/lawyer-william-mulholland
-Principal Lawyer  ,,,MurdockCheng Legal Practice,English,Damin Murdock,"September 9th, 2013",36,"NSW, Australia"," ""I'm the Principal Lawyer of MurdockCheng Legal Practice. MCLP is a multi-disciplinary commercial law firm situated in the Sydney CBD. We act for individuals, start-ups, SMEs and publicly listed companies. 
+Paul has extensive experience in advising technology companies and companies in the online space.""",English,,19,"May 16th, 2013",25,https:/lawpath.com.au/lawyer-network/lawyer-paul-miller
+Brad Mifsud,Director  ,Charter Conveyancing,"QLD, Australia",,"English, Mandarin, Cantonese, Other",,,"May 6th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-brad-mifsud
+Peter Mecoles,Principal  ,Patrick Cash & Associates,"VIC, Australia"," ""I give sound advice, prompt attention and always return calls and emails!""",English,,46,"September 19th, 2013",24,https:/lawpath.com.au/lawyer-network/lawyer-peter-mecoles
+Jed Mc Namara,Partner  ,Sykes Pearson Miller Lawyers ( SPM Law),"QLD, Australia"," ""Jed McNamara's chosen areas of specialty are litigation, family law and personal injury law.""",English,,20,"September 23rd, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-jed-mcnamara
+Tim Mc Donald,Principal  ,McDonald Lawyers,"VIC, Australia",,English,,20,"November 18th, 2013",12,https:/lawpath.com.au/lawyer-network/lawyer-tim-mcdonald
+Anne Mc Donald,Principal  ,Anne McDonald & Associates,"NSW, Australia"," ""We provide expert legal advice and value for money.  With over 12 years experience in a CBD law firm in Sydney, we provide city experience without the city prices""",English,,14,"August 20th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-anne-mcdonald
+Suzanne Roberts,Director  ,Informed Conveyancing Lawyers,"QLD, Australia",,English,,,"May 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-suzanne-roberts
+Phillip Roberts,Principal   ,PCR Law & Associates ,"NSW, Australia",,"English, French, Vietnamese",,,"May 30th, 2014",5,https:/lawpath.com.au/lawyer-network/lawyer-phillip-roberts
+Patrick Lott,Barrister  ,Selborne Chambers,"NSW, Australia",,English,,,"November 6th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-patrick-lott
+"Robert Lombardi, Llm",Principal  ,"ROBERT LOMBARDI, LLM","WA, Australia",,,,,"May 7th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-robert-lombardi-llm
+Sarah Lock,Principal  ,Workplace Law Specialists,"VIC, Australia",,English,,15,"February 11th, 2014",30,https:/lawpath.com.au/lawyer-network/lawyer-sarah-lock
+Catherine Logan,Partner   ,Hunt & Hunt,"NSW, Australia "," ""A solid background in corporate and commercial law spanning more than 25 years provides Catherine with an efficient yet detailed approach that focuses on avoiding unwanted publicity and litigation for her very satisfied clients.
+ Jointly heading our Sydney Commercial and Property Group, Catherine’s key areas are intellectual property (IP), corporate advisory, contracts, ecommerce, competition and consumer law, leases and licensing. Her clients vary, ranging from listed and unlisted public companies, global companies, family businesses, partnerships and joint ventures, to government and non-government, sporting, charitable and non-profit organisations. 
 
-All consultations are at no cost to you and we endeavour to provide fixed fee prices where possible.""",/lawyer-network/lawyer-damin-murdock
-Principal  ,,14,Visatec Legal ,"English, Mandarin, Vietnamese",Adewale Oladejo,"February 1st, 2014",13,"VIC, Australia"," ""Visatec Legal is a leading immigration law firm based in Melbourne.
+""",English,,25,"May 21st, 2014",5,https:/lawpath.com.au/lawyer-network/lawyer-catherine-logan
+Ben Lehman,Owner  ,Ben Lehman,"VIC, Australia",,English,,16,"July 23rd, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-ben-lehman--2
+Jules Lewin,Sole Director   ,Charthill Legal,"WA, South Africa and Australia "," ""We are a boutique suburban law firm providing solution based practical advise at reasonable rates ""","English, Other",,35,"January 28th, 2014",4,https:/lawpath.com.au/lawyer-network/lawyer-jules-lewin
+Merran Loewenthal,Sole Practitioner  ,"Merran Loewenthal, LL.B.","Austria,  as English and NSW solicitor",,English,,40,"June 11th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-merran-loewenthal
+Ben Lehman,Partner  ,Ben Lehman,"VIC, Australia",,English,,,"May 16th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-ben-lehman
+Anthony John Mc Minn,Principal  ,Anthony McMinn lawyer,"NSW, Australia"," ""Tony is a commercial lawyer who provides effective legal strategies to businesses and individuals, negotiates and documents transactions and facilitates the resolution of commercial disputes. 
 
-Areas of expertise include:
+With over 30 years legal experience, Tony brings commercial nous and judgment to find cost-effective solutions to commercial and corporate transactions and disputes.    
 
-> Employer sponsored visa (including 457, 186 & 187 visas)
-> Partner visas (including fiance, defacto and married partners
->Student Visas and Graduate Visas
->General skilled migration (including EOI) for skilled independent (189) and State sponsored (489 and 190)
-> MRT and Judicial appeals
-> Visa refusals and cancellations
->Australian Citizenship 
->Migration consultancy services""",/lawyer-network/lawyer-adewale-oladejo
-Principal Consultant  ,,3,Northam & Associates,English,Mark Northam,"September 13th, 2013",2,"NSW, Australia,  New Zealand",,/lawyer-network/lawyer-mark-northam
-Director  ,,,Astra Legal,,Marie Christine Oliver,"March 11th, 2014",,"QLD, Australia",,/lawyer-network/lawyer-marie-christine-oliver
-Director  ,,,Switch Legal,English,Melanie Noble,"April 24th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-melanie-noble
-Senior Associate  ,,4,Tiernan Lawyers,English,Tash Nolan,"July 30th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-tash-nolan
-Principal  ,,12,Paul J Hick - Solicitor,English,Paul J Hick,"March 31st, 2014",1,"QLD, Australia"," ""Paul Hick is an experienced construction lawyer & commercial litigator.  He has extensive experience in construction dispute resolution including mediation, arbitration, expert determination, litigation & adjudication under security of payment legislation.  Paul is also experienced in contract negotiation & drafting, joint ventures, alliance & partnering arrangements as well as industry training on legal, contract & security of payment processes.""",/lawyer-network/lawyer-paul-j-hick
-Registered Migration Agent  ,,,MacGregor O'Reilly Solicitors,"English, Other",Sam Jazayeri,"March 19th, 2014",1,"QLD, Australia",,/lawyer-network/lawyer-sam-jazayeri
-Business Manager   ,,,HHG Legal Group,English,Amali Jayasekere,"August 8th, 2014",,"WA, Australia",,/lawyer-network/lawyer-amali-jayasekere
-Partner  ,,,Jenman Lawyers inc Karageorge & Co. Solicitors,English,Patricia Jenman,"July 9th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-patricia-jenman
-Lawyer  ,,11,MacGregor O'Reilly Solicitors,English,Daniel Nash,"September 13th, 2013",2,"QLD, Australia",,/lawyer-network/lawyer-daniel-nash
-  ,,9,Arnotts Technology Lawyers,English,Alan J. Arnott,"February 20th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-alan-j-arnott
-Solicitor  ,,,Neumann & Turnour,English,Annabelle Jacob,"August 25th, 2014",,"QLD, Australia"," ""I have experience in family law matters concerning children’s issues and property matters. I am particularly passionate about ensuring children’s rights are protected when their parents are separating. I have also dealt with issues concerning international child recovery matters, have submitted appeals to the Social Security Appeals Tribunal concerning child support payments and deal with domestic violence applications.  """,/lawyer-network/lawyer-annabelle-jacob
-Lawyer/Director   ,,,E & G Legal ,"English, Spanish",Erika Jasarevic,"October 14th, 2014",6,"NSW, Australia,  United States of America "," ""Spanish speaking, energetic, hard worker, with an endless determination to get the job done. Erika is the lawyer any client would want to have on their side. Erika’s single goal is to help you. Her experience dealing in the areas of Business transactions, Foreclosure Defence, Probate & Estates, and litigating Criminal and Traffic cases, in the United States along with her understanding and familiarity with Australian Courts practicing in the areas of Civil Litigation, Property Law, Construction,""",/lawyer-network/lawyer-erika-jasarevic
-Marketing / I.T.  ,,,Wiltshire Lawyers,English,Krisztina Jablanski,"September 25th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-krisztina-jablanski
-Legal Practitioner Director  ,,,Everyday Lawyers,English,Mitchell Jamieson,"December 15th, 2013",16,"QLD, Australia",,/lawyer-network/lawyer-mitchell-jamieson
-Lawyer  ,,,SVC LEGAL AUSTRALIA,"English, French, Vietnamese, Other",Lucky Iyare Ehimudiamen,"September 25th, 2014",7,"NSW, Australia",,/lawyer-network/lawyer-lucky-iyare-ehimudiamen
-Advocate  ,,,MENTO ASSOCIATES,English,Mento Issac,"May 16th, 2013",,"INDIA, India, Australia",,/lawyer-network/lawyer-mento-issac
-Accredited Specialist In Criminal Law  ,,9,Robert Kaufmann - Criminal Lawyer,English,Robert Kaufmann,"July 17th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-robert-kaufmann
-Https://Www.Google.Co.In  ,,,A Lismore Compensation Lawyer,"English, Greek, French",Satwinder Kaur,"August 29th, 2014",,"NT, Australia",,/lawyer-network/lawyer-satwinder-kaur
-Principal  ,,8,IshanLaw,English,Ishan Karunanayake,"June 18th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-ishan-karunanayake
-Principal Solicitor  ,,15,AMK Law,"English, Portugese / Brasilero",Matthew Karakoulakis,"March 15th, 2014",9,"VIC, Australia"," ""AMK Law is experienced in Dispute Resolution, Property and Commercial Laws and I am here to help you.
+Tony obtained a Bachelor of Laws and Master of Laws from the University of Sydney. """,English,,34,"August 5th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-anthony-john-mcminn
+Paul J Hick,Principal  ,Paul J Hick - Solicitor,"QLD, Australia"," ""Paul Hick is an experienced construction lawyer & commercial litigator.  He has extensive experience in construction dispute resolution including mediation, arbitration, expert determination, litigation & adjudication under security of payment legislation.  Paul is also experienced in contract negotiation & drafting, joint ventures, alliance & partnering arrangements as well as industry training on legal, contract & security of payment processes.""",English,,12,"March 31st, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-paul-j-hick
+Steven Johnson,Legal Practitioner Director  ,Qld Law Group,"QLD, Australia"," ""Our firm thrives on carrying the Queenslander traits of no-nonsense, straight talking and hard work through all aspects of our legal practice. We offer personalised, thoroughly professional legal advice when you need it, without it costing the shirt off your back. We've got some exceptionally sharp legal minds that have proved our on-going success for over 20 years. At Qld Law Group - A New Direction Pty Ltd, we have the expertise to both deal with the law in all its complexity, and yet communicate with you in simple, uncomplicated terms. You won't find another legal firm that pulls it all together like we do.""",English,,27,"September 16th, 2013",21,https:/lawpath.com.au/lawyer-network/lawyer-steven-johnson
+Amali Jayasekere,Business Manager   ,HHG Legal Group,"WA, Australia",,English,,,"August 8th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-amali-jayasekere
+Alan J. Arnott,  ,Arnotts Technology Lawyers,"NSW, Australia",,English,,9,"February 20th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-alan-j-arnott
+Patricia Jenman,Partner  ,Jenman Lawyers inc Karageorge & Co. Solicitors,"NSW, Australia",,English,,,"July 9th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-patricia-jenman
+Erika Jasarevic,Lawyer/Director   ,E & G Legal ,"NSW, Australia,  United States of America "," ""Spanish speaking, energetic, hard worker, with an endless determination to get the job done. Erika is the lawyer any client would want to have on their side. Erika’s single goal is to help you. Her experience dealing in the areas of Business transactions, Foreclosure Defence, Probate & Estates, and litigating Criminal and Traffic cases, in the United States along with her understanding and familiarity with Australian Courts practicing in the areas of Civil Litigation, Property Law, Construction,""","English, Spanish",,,"October 14th, 2014",6,https:/lawpath.com.au/lawyer-network/lawyer-erika-jasarevic
+Marc Jaku,Legal Practitioner Director  ,Jaku Legal Pty Ltd,"NSW, Australia",,English,,9,"December 12th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-marc-jaku
+Annabelle Jacob,Solicitor  ,Neumann & Turnour,"QLD, Australia"," ""I have experience in family law matters concerning children’s issues and property matters. I am particularly passionate about ensuring children’s rights are protected when their parents are separating. I have also dealt with issues concerning international child recovery matters, have submitted appeals to the Social Security Appeals Tribunal concerning child support payments and deal with domestic violence applications.  """,English,,,"August 25th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-annabelle-jacob
+Krisztina Jablanski,Marketing / I.T.  ,Wiltshire Lawyers,"QLD, Australia",,English,,,"September 25th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-krisztina-jablanski
+Helen Kavadias,"Lawyer, Trade Mark & Patent Attorney  ",Phillips Ormonde Fitzpatrick,"NSW, Australia "," ""intellectual property (trade marks, patents, designs, copyright) protection, enforcement, and commercialisation""",English,,12,"July 5th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-helen-kavadias
+Satwinder Kaur,Https:/Www.Google.Co.In  ,A Lismore Compensation Lawyer,"NT, Australia",,"English, Greek, French",,,"August 29th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-satwinder-kaur
+Mitchell Jamieson,Legal Practitioner Director  ,Everyday Lawyers,"QLD, Australia",,English,,,"December 15th, 2013",16,https:/lawpath.com.au/lawyer-network/lawyer-mitchell-jamieson
+Robert Kaufmann,Accredited Specialist In Criminal Law  ,Robert Kaufmann - Criminal Lawyer,"NSW, Australia",,English,,9,"July 17th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-robert-kaufmann
+Ishan Karunanayake,Principal  ,IshanLaw,"NSW, Australia",,English,,8,"June 18th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-ishan-karunanayake
+Chris Karamanolis,Director/Principal Lawyer  ,First Legal & Migration Services Pty Ltd,"VIC, Australia"," ""Approx 15 years experience in South Africa and 2 years in Australia (although we practice in various areas of the law, the majority  of our work is related to Australian Immigration law matters).""",English,,,"September 11th, 2013",12,https:/lawpath.com.au/lawyer-network/lawyer-chris-karamanolis
+Matthew Karakoulakis,Principal Solicitor  ,AMK Law,"VIC, Australia"," ""AMK Law is experienced in Dispute Resolution, Property and Commercial Laws and I am here to help you.
 
-AMK Law is more than just a law firm. AMK Law provides practical and sensible solutions to your needs as first priority.... everytime.""",/lawyer-network/lawyer-matthew-karakoulakis
-Associate Solicitor  ,,,CK Lawyers,English,Fred Kalouche,"July 25th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-fred-kalouche
-Partner  ,,19,Wallace Wilkinson and Webster,English,Will Justo,"August 29th, 2013",1,"TAS, Australia",,/lawyer-network/lawyer-will-justo
-Lawyer & Migration Agent  ,,10,KakayLegal &Able Migration Consultants,"English, French, Other",Ibrahim Kakay,"June 21st, 2014",1,"WA, Australia, Sierra Leone",,/lawyer-network/lawyer-ibrahim-kakay
-Partner  ,,,Neeta George,English,Vinesh George,"August 11th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-vinesh-george
-Principal  ,,,Hristoforos & George Solicitors,"English, Greek",Dezi George,"March 4th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-dezi-george
-Managing Partner  ,,38,Taylor & Scott Lawyers,English,Mr. Gervase Liddy,"September 17th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-mr-gervase-liddy
-Director  ,,30,PGG Legal,English,Peter Gell,"July 3rd, 2014",1,"NSW, Australia"," ""Peter practices in the areas of taxation (with emphasis on the GST and capital gains tax), tax effective Estate planning and wills, business structuring, reorganisations and reconstructions, complex negotiations and dispute resolution, shareholder arrangements and joint ventures and legal relationship management. Peter has a Master’s degree in taxation conferred by the University of New South Wales and is a Chartered taxation advisor""",/lawyer-network/lawyer-peter-gell
-Principal  ,,13,Idealaw,"English, Cantonese",Kay Lam Mac Leod,"May 16th, 2013",9,"QLD, Australia",,/lawyer-network/lawyer-kay-lam-macleod
-Principal Solicitor  ,,18,Shire Legal,English,Melissa Lammers,"April 26th, 2013",3,"NSW, Australia",,/lawyer-network/lawyer-melissa-lammers
-Managing Partner  ,,20,Baybridge Lawyers,English,Marwan Kojok,"November 13th, 2014",,"NSW, Australia"," ""Marwan Kojok is the Founder of Baybridge Lawyers and is a leading authority in the franchising, licensing and distribution sectors. Marwan has a wealth of commercial, corporate and franchise experience, highly valued by SMEs, publicly listed companies and large businesses, both in Australia and internationally. Marwan has worked in a diverse range of industries, assisting in the international protection of well-known brand names.""",/lawyer-network/lawyer-marwan-kojok
-Associate Director  ,,9,Koffels Solicitors & Barristers,English,Aaron Koffel,"April 30th, 2014",1,"NSW, Australia"," ""Senior corporate lawyer with 9 years of experience in representing leading private and public companies based in Europe, Americas and Asia Pacific region. 
+AMK Law is more than just a law firm. AMK Law provides practical and sensible solutions to your needs as first priority.... everytime.""","English, Portugese / Brasilero",,15,"March 15th, 2014",9,https:/lawpath.com.au/lawyer-network/lawyer-matthew-karakoulakis
+Fred Kalouche,Associate Solicitor  ,CK Lawyers,"NSW, Australia",,English,,,"July 25th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-fred-kalouche
+Laura Keily,Barrister  ,Barrister,"VIC, Australia,  entitled to practise in the UK"," ""Laura Keily is a commercial barrister who focuses on corporate law, including disputes and legal compliance.  She is available to act on all kinds of disputes, such as contract or payment disputes or regulatory investigations. Laura is a highly experienced corporate and business lawyer, with many years experience as a corporate solicitor at major firms prior to joining the Bar in 2013.  In some but not cases, a solicitor may need to be engaged in addition to the ultimate client.  """,English,,14,"November 6th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-laura-keily
+Warwick Keay,Director   ,WKA Legal,"NSW, Australia",,English,,,"July 27th, 2014",3,https:/lawpath.com.au/lawyer-network/lawyer-warwick-keay
+Miles Hunt,Partner  ,Schofield King Lawyers,"NSW, Australia",,English,,,"March 6th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-miles-hunt
+Cristina Huesch,Principal  ,Alliance Family Law,"ACT, Australia",,English,,10,"October 19th, 2013",3,https:/lawpath.com.au/lawyer-network/lawyer-cristina-huesch
+Lincoln Hunter,Principal  ,"Loyalty Legal Pty Ltd, Commercial Lawyers","NSW, Australia",,English,,20,"August 6th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-lincoln-hunter
+Christopher Humby,Associate  ,Thomsons Lawyers,"QLD, Australia"," ""I specialise in building and construction law and general commercial disputes.
 
-“I really believe in representing my clients’ interests. I love helping them succeed. I understand the fundamentals of finance, accounting, operations management, branding and corporate strategy, this helps me gear my legal advice to the issues relevant to the client.”""",/lawyer-network/lawyer-aaron-koffel--2
-Principal  ,,25,Koffels Solicitors & Barristers,"English, Mandarin, Other",Ross Koffel,"March 7th, 2014",31,"NSW, Australia"," ""Our firm opened in 1990 and we now represent businesses ranging from Australian entrepreneurs to established industry leaders with turnover in excess of EUR 1 billion per year. We understand what it is like to build, own and run your own business and we take great pride in working with clients who trust us with what is often their life’s work.
+My services include:
+- Negotiating and drafting construction contracts and other commercial agreements
+- Providing advice in relation to payment, quality and time related claims
+- Acting for claimants or respondents in relation to claims under Security of Payment legislation
+- Acting for parties involved in construction disputes, including litigation, arbitration and expert determination""",English,,5,"January 25th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-christopher-humby
+Paul Fordyce,Managing Director  ,Pmf Legal Limited,"NSW, Australia",,English,,35,"September 17th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-paul-fordyce
+Harry Foteades,Solicitor Director  ,Foteades Freeman Cohen,"NSW, Australia",,English,,,"May 20th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-harry-foteades
+James Ford,,,,,English,,30,"September 26th, 2013",99,https:/lawpath.com.au/lawyer-network/lawyer-james-ford
+Leif Godwin,  ,Godwin Legal,"NSW, Australia",,English,,20,"February 22nd, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-leif-godwin
+Ken Gluche,Principal  ,Websters Lawyers,"SA, Australia",,English,,23,"August 14th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-ken-gluche
+Michael Gleeson,Barrister  ,Eleventh Floor Garfield Barwick Chambers,"NSW, Australia and United Kingdom",,English,,"3,13","September 6th, 2013",15,https:/lawpath.com.au/lawyer-network/lawyer-michael-gleeson
+Vinesh George,Partner  ,Neeta George,"NSW, Australia",,English,,,"August 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-vinesh-george
+Dezi George,Principal  ,Hristoforos & George Solicitors,"VIC, Australia",,"English, Greek",,,"March 4th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-dezi-george
+Mr. Gervase Liddy,Managing Partner  ,Taylor & Scott Lawyers,"NSW, Australia",,English,,38,"September 17th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-mr-gervase-liddy
+Jonnita Gillam,Legal Consultant  ,De Silva Legal,"VIC, Australia",,English,,,"April 26th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-jonnita-gillam
+Helen Gregoriou,Principal   ,Gregoriou Legal Pty Limited,"NSW, Australia"," ""We specialise in corporate, commercial and entertainment law with over 15 years of experience in these areas.  We are a legal service provider with a difference. We understand our clients wants and needs and offer our services accordingly.  We offer easy to understand and practical advice for commercial efficiency. We like to 'keep it simple' whilst covering all the bases. """,English,,15,"October 22nd, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-helen-gregoriou
+Tony Greenwood,Solicitor  ,Shire Legal,"NSW, Australia",,English,,10,"May 14th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-tony-greenwood
+Terence Guthridge,Owner  ,Guthridge ,"VIC, Australia",,English,,10,"July 22nd, 2013",26,https:/lawpath.com.au/lawyer-network/lawyer-terence-guthridge
+Stephen Graham,  ,John F. Morrissey & Company lawyers,"NSW, Australia",,English,,,"May 16th, 2013",3,https:/lawpath.com.au/lawyer-network/lawyer-stephen-graham
+Lisa Gough,Barrister And Solicitor  ,Adelaide Family Law,"SA, Australia"," ""At Adelaide Family Law we offer personalised legal advice, specialising in the areas of family and de facto law.""",English,,19,"August 1st, 2014",4,https:/lawpath.com.au/lawyer-network/lawyer-lisa-gough--2
+Michelle Gorton,Principal  ,Gorton IP,"NSW, Australia",,English,,10,"August 20th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-michelle-gorton
+Damian Grant Phair,Principal  ,Dettmann Longworth Lawyers,"NSW, Australia",,English,,13,"July 3rd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-damian-grant-phair
+Gene Goodsell,Md  ,Goodsell Lawyers,"NSW, NSW, Australia"," ""Goodsell Lawyers is a boutique law firm based in Surry Hills. We are not just lawyers, we are dealmakers.
 
-The firm specialises in cross border work on behalf of SME's and work with associated firms in Asia, Europe and the Americas.""",/lawyer-network/lawyer-ross-koffel
-Legal Practitioner Director  ,,10,SME Property Lawyer,English,Andrew Kleiman,"July 4th, 2014",,"NSW, New South Wales,  Australia"," ""SME Property Lawyer offers property, conveyancing and leasing legal services for small and medium sized businesses. We specialise in commercial, industrial and retail property such as offices, warehouses and shops. Our fees are advertised on our website so clients enjoy price certainty and transparency.""",/lawyer-network/lawyer-andrew-kleiman
-Senior Lawyer  ,,6,Nevett Ford Melbourne Pty Ltd,English,Noah Klug,"September 12th, 2013",42,"VIC, Australia,  USA,  Italy"," ""I practice US immigration/visa law, Australian immigration/visa law, Australian employment/workplace relations law, and general Australian commercial law.  I have colleagues in my firm who practice litigation, property law, and family law.""",/lawyer-network/lawyer-noah-klug
-Lawyer  ,,4,PCL Lawyers,Russian,Nickita Knight,"January 31st, 2014",29,"VIC, Australia,  "," ""I am a Family Lawyer based in the Melbourne CBD. I have experience in all matter of Family Law""",/lawyer-network/lawyer-nickita-knight
-Associate   ,,15,Hall Payne Lawyers,English,Annette Lakey,"September 16th, 2013",,"QLD, Australa , Australia",,/lawyer-network/lawyer-annette-lakey
-Barrister & Solicitor  ,,,Michael Kuzilny,,Michael Kuzilny,"April 12th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-michael-kuzilny
-Solicitor  ,,"36,35",Kirkby & Associates - Lawyers and Call Conveyancing Sydney,English,Susan Kirkby,"September 18th, 2013",,"NSW, Australia - NSW only",,/lawyer-network/lawyer-susan-kirkby
-Partner  ,,,Robinson Gill,"English, Mandarin, Other",Jeremy King,"November 13th, 2014",,"VIC, Australia",,/lawyer-network/lawyer-jeremy-king
-Principal Lawyer  ,,10,BK Lawyers and conveyancers,"English, Other",Bindu Kurup,"September 8th, 2014",3,"VIC, Australia",,/lawyer-network/lawyer-bindu-kurup
-,,6,,English,Rebecca Kurien,"April 29th, 2013",,,,/lawyer-network/lawyer-rebecca-kurien
-Principal  ,,10,Hopkins Lawyers,English,Kristine Hopkins,"September 17th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-kristine-hopkins
-Solicitor  ,,2,HHG Legal Group,English,Kate House,"July 30th, 2013",16,"WA, Australia",,/lawyer-network/lawyer-kate-house
-Lawyer  ,,,Teare Lawyers,English,David Homes,"August 7th, 2014",,"NT, Australia",,/lawyer-network/lawyer-david-homes
-Senior Associate  ,,8,Yukio Hayashi & Associates,English,Kenneth Hong,"May 6th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-kenneth-hong
-  ,,,Ebony holland-Harris ,English,Ebony Holland Harris,"August 8th, 2014",,"SA, Australia",,/lawyer-network/lawyer-ebony-holland-harris
-Office Manager  ,,,Greenhalgh Pickard Solicitors & Accountants,English,Mariah Hipper,"September 26th, 2013",4,"QLD, Australia",,/lawyer-network/lawyer-mariah-hipper
-Legal Practise Director  ,,12,Hodge & Smith,English,Kim Hodge,"September 12th, 2014",,"WA, Australia"," ""Kim is a Solicitor and a Human Resources Consultant who is passionate about helping people in a professional and productive way. Kim’s qualifications include a Bachelor of Economics from the University of Western Australia and a Bachelor of Laws from Murdoch University.  He commenced his career in industrial relations and workplace relations in 1995 and has held his legal practicing certificate since 2002.  """,/lawyer-network/lawyer-kim-hodge
-Senior Associate   ,,10,Kabo Lawyers,"English, Mandarin, Cantonese, German, Vietnamese, Other",Shanice Hoang,"April 10th, 2014",1,"NSW, Australia"," ""Property Lawyer with extensive experience in working with clients on medium to large scale developments projects
+Our fees are reasonable and our service is exemplary. """,English,,9,"May 14th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-gene-goodsell
+Bruce Bravo,Coo  ,PK Simpson & Co,"NSW, Australia",,English,,36,"September 17th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-bruce-bravo
+Reuben Bramanathan,Senior Lawyer  ,Adroit Lawyers,"NSW, Australia"," ""Reuben is a tax lawyer with broad commercial legal experience and a passion for helping startups and small businesses to grow.
 
-Experienced in managing development sales and purchase representation locally and overseas.""",/lawyer-network/lawyer-shanice-hoang
-Lawyer/Director  ,,,Forty Seven Legal Pty Ltd,English,Vincent Holland,"July 17th, 2014",,"WA, Australia"," ""I am a lawyer and director at Forty Seven Legal and specialise in wills and estates, tax, disputes, superannuation, business law and philanthropy. I go the extra mile for every client, ensuring they get the best outcome and value for money. """,/lawyer-network/lawyer-vincent-holland
-Solicitor  ,,,Southern Waters Legal,,Zoe Hibbard,"February 17th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-zoe-hibbard
-Partner  ,,,Mallesons,Greek,Chris Hexton,"January 28th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-chris-hexton
-Principal  ,,16,Aquarius Lawyers,English,Katherine Hawes,"July 10th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-katherine-hawes
-Solicitor  ,,,Southern Waters Legal,English,Monique Hayes,"February 17th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-monique-hayes
-Graduate Lawyer  ,,1,KWS Legal,English,Kathryn Hartmann,"June 11th, 2014",,"NSW, Australia"," ""I have recently joined the KWS Legal corporate/commercial/IP team as a graduate lawyer. I am currently completing my Graduate Diploma in Legal Practice from the College of Law having returned from working in London for the past two years. 
+He has acted for a range of clients that include individuals, SMEs, family businesses, digital currency businesses and a number of listed and international companies.
 
-My training in law firms and companies both in Australia and the UK has developed my knowledge across a range of areas including e-commerce, corporate and commercial law, intellectual property, commercial property and private client services.""",/lawyer-network/lawyer-kathryn-hartmann
-Lawyer  ,,,PCL Lawyers,"English, Russian",Glenn Hindmarsh,"April 9th, 2014",53,"VIC, Australia",,/lawyer-network/lawyer-glenn-hindmarsh
-Principal  ,,,Havilah Legal,English,Bruce Havilah,"September 1st, 2014",1,"WA, Australia",,/lawyer-network/lawyer-bruce-havilah
-Partner  ,,13,ek | Law,English,Eric Kuenzi,"March 8th, 2013",,"SUI, Switzerland, Australia",,/lawyer-network/lawyer-eric-kuenzi
-Principal   ,,15,Gregoriou Legal Pty Limited,English,Helen Gregoriou,"October 22nd, 2013",1,"NSW, Australia"," ""We specialise in corporate, commercial and entertainment law with over 15 years of experience in these areas.  We are a legal service provider with a difference. We understand our clients wants and needs and offer our services accordingly.  We offer easy to understand and practical advice for commercial efficiency. We like to 'keep it simple' whilst covering all the bases. """,/lawyer-network/lawyer-helen-gregoriou
-Solicitor  ,,10,Shire Legal,English,Tony Greenwood,"May 14th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-tony-greenwood
-  ,,,John F. Morrissey & Company lawyers,English,Stephen Graham,"May 16th, 2013",3,"NSW, Australia",,/lawyer-network/lawyer-stephen-graham
-Barrister And Solicitor  ,,19,Adelaide Family Law,English,Lisa Gough,"August 1st, 2014",4,"SA, Australia"," ""At Adelaide Family Law we offer personalised legal advice, specialising in the areas of family and de facto law.""",/lawyer-network/lawyer-lisa-gough--2
-Principal  ,,10,Gorton IP,English,Michelle Gorton,"August 20th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-michelle-gorton
-Principal  ,,13,Dettmann Longworth Lawyers,English,Damian Grant Phair,"July 3rd, 2013",,"NSW, Australia",,/lawyer-network/lawyer-damian-grant-phair
-  ,,,Wilson Sonsini Goodrich & Rosarti,English,Selwyn Goldberg,"May 17th, 2013",1,"USA, USA, Australia",,/lawyer-network/lawyer-selwyn-goldberg
-Md  ,,9,Goodsell Lawyers,English,Gene Goodsell,"May 14th, 2013",1,"NSW, NSW, Australia"," ""Goodsell Lawyers is a boutique law firm based in Surry Hills. We are not just lawyers, we are dealmakers.
+Expertise in tax, small business and startups, Bitcoin. 
+""","English, German",,6,"October 1st, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-reuben-bramanathan
+Fred Chilton,Partner  ,Emil Ford Lawyers,"NSW, Australia",,English,,41,"September 12th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-fred-chilton
+Shanice Hoang,Senior Associate   ,Kabo Lawyers,"NSW, Australia"," ""Property Lawyer with extensive experience in working with clients on medium to large scale developments projects
 
-Our fees are reasonable and our service is exemplary. """,/lawyer-network/lawyer-gene-goodsell
-Litigation Solicitor  ,,3,NQ LEGAL,English,Drazen Kozaric,"June 12th, 2013",1,"QLD, Australia",,/lawyer-network/lawyer-drazen-kozaric
-Senior Family Law Solicitor  ,,33,McKean Park,English,Katrina Bristow,"October 11th, 2013",12,"VIC, Australia",,/lawyer-network/lawyer-katrina-bristow
-Principal  ,,12,lexicon:legal,English,Erica Brooke Taylor,"August 23rd, 2013",,"NSW, Australia",,/lawyer-network/lawyer-erica-brooke-taylor
-Director  ,,,PB Ritz Lawyers - Experts in Estate Planning,English,Phillip Briffa,"August 2nd, 2013",7,"NSW, Australia",,/lawyer-network/lawyer-phillip-briffa
-Consultant Lawyer  ,,35,McKean Park,English,David Brett,"October 21st, 2013",4,"VIC, Australia",,/lawyer-network/lawyer-david-brett
-,,,,English,Mark Harris,"October 21st, 2013",1,,,/lawyer-network/lawyer-mark-harris
-Coo  ,,36,PK Simpson & Co,English,Bruce Bravo,"September 17th, 2013",1,"NSW, Australia",,/lawyer-network/lawyer-bruce-bravo
-Partner  ,,,Elringtons,"English, Spanish, Other",Matthew Bridger,"May 12th, 2014",,"ACT, Australia",,/lawyer-network/lawyer-matthew-bridger
-Legal Consultant  ,,,De Silva Legal,"English, Other",Sam Haln,"March 20th, 2014",5,"NSW, Australia",,/lawyer-network/lawyer-sam-haln
-Solicitor  ,,"1,5",Sabelberg Morcos Lawyers,English,Bishoy Hanna,"September 13th, 2013",1,"VIC, Australia",,/lawyer-network/lawyer-bishoy-hanna
-Lawyer  ,,,Essen Lawyers Pty Ltd,"English, Mandarin, Vietnamese",Dave Hadley,"July 4th, 2014",,"QLD, Australia",,/lawyer-network/lawyer-dave-hadley
-Principal  ,,28,Kepdowrie Chambers,English,Julian Gyngell,"March 6th, 2013",4,"NSW, Australia"," ""Julian Gyngell is a corporate / commercial lawyer who for 28 years has specialised in working with clients in the complementary (and converging) IP-rich, creative industry sectors: 
+Experienced in managing development sales and purchase representation locally and overseas.""","English, Mandarin, Cantonese, German, Vietnamese, Other",,10,"April 10th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-shanice-hoang
+Mariah Hipper,Office Manager  ,Greenhalgh Pickard Solicitors & Accountants,"QLD, Australia",,English,,,"September 26th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-mariah-hipper
+Kathryn Hartmann,Graduate Lawyer  ,KWS Legal,"NSW, Australia"," ""I have recently joined the KWS Legal corporate/commercial/IP team as a graduate lawyer. I am currently completing my Graduate Diploma in Legal Practice from the College of Law having returned from working in London for the past two years. 
+
+My training in law firms and companies both in Australia and the UK has developed my knowledge across a range of areas including e-commerce, corporate and commercial law, intellectual property, commercial property and private client services.""",English,,1,"June 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-kathryn-hartmann
+Mark Harris,,,,,English,,,"October 21st, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-mark-harris
+Chantelle Hamawi,Solicitor  ,Sabelberg Morcos Lawyers,"VIC, Australia,  China,  Egypt",,English,,"2,1,2","September 11th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-chantelle-hamawi
+Sam Haln,Legal Consultant  ,De Silva Legal,"NSW, Australia",,"English, Other",,,"March 20th, 2014",5,https:/lawpath.com.au/lawyer-network/lawyer-sam-haln
+Julian Gyngell,Principal  ,Kepdowrie Chambers,"NSW, Australia"," ""Julian Gyngell is a corporate / commercial lawyer who for 28 years has specialised in working with clients in the complementary (and converging) IP-rich, creative industry sectors: 
 •	IT and ICT systems and services
 •	telecoms: 3G and 4G product development and licensing
 •	e-commerce and m-commerce apps and services
 •	multimedia, crossmedia & transmedia: content development, publication, syndication
 •	biotech / pharmaceutical / life sciences
-•	entertainment""",/lawyer-network/lawyer-julian-gyngell
-Solicitor  ,,,PCL Lawyers,"English, Mandarin, Russian",June H,"May 26th, 2014",39,"VIC, Australia",,/lawyer-network/lawyer-june-h
-Owner  ,,10,Guthridge ,English,Terence Guthridge,"July 22nd, 2013",26,"VIC, Australia",,/lawyer-network/lawyer-terence-guthridge
-Solicitor  ,,"2,1,2",Sabelberg Morcos Lawyers,English,Chantelle Hamawi,"September 11th, 2013",2,"VIC, Australia,  China,  Egypt",,/lawyer-network/lawyer-chantelle-hamawi
-Senior Lawyer  ,,6,Adroit Lawyers,"English, German",Reuben Bramanathan,"October 1st, 2014",1,"NSW, Australia"," ""Reuben is a tax lawyer with broad commercial legal experience and a passion for helping startups and small businesses to grow.
-
-He has acted for a range of clients that include individuals, SMEs, family businesses, digital currency businesses and a number of listed and international companies.
-
-Expertise in tax, small business and startups, Bitcoin. 
-""",/lawyer-network/lawyer-reuben-bramanathan
-Lawyer  ,,8,Vanguard Legal,"English, Mandarin, Other",Eric Citra,"December 13th, 2013",16,"QLD, Australia"," ""We are a firm of business litigation lawyers located in Queensland. We service all of Qld, NSW, Victoria and South Australia. We are able to assist you with all commercial, estate and insolvency litigation. The scope of work our firm practices in is everything from contract law through disputed estates and all matters concerning personal bankruptcy as well as business and corporate insolvency""",/lawyer-network/lawyer-eric-citra
-Solicitor  ,,4,Kenny Spring Solicitors,English,Patrick Coetsee,"March 15th, 2013",,"NSW, Australia ",,/lawyer-network/lawyer-patrick-coetsee
-Solicitor  ,,,HHG Legal Group,English,Tim Colcutt,"April 9th, 2014",5,"WA, Australia",,/lawyer-network/lawyer-tim-colcutt
-Partner  ,,10,Andersons Solicitors,English,Felix Christian Hoelscher,"June 25th, 2013",4,"SA, South Australia (State Courts); Australia (Federal Court)",,/lawyer-network/lawyer-felix-christian-hoelscher
-Principal Lawyer  ,,,Jeffrey Choy Legal,English,Jeffrey Choy,"April 12th, 2014",5,"NSW, Australia",,/lawyer-network/lawyer-jeffrey-choy
-Sole Practitioner  ,,41,Steven Chopping LL.B,English,Steven Chopping,"August 29th, 2013",,"TAS, Aust, Australia",,/lawyer-network/lawyer-steven-chopping
-  ,,,JV Legal,English,Jo Anne Chong,"February 15th, 2013",4,"NSW, Australia",,/lawyer-network/lawyer-jo-anne-chong
-Principal  ,,31,CKB Associates Lawyers,English,Stephen Barry,"May 13th, 2014",11,"NSW, Australia",,/lawyer-network/lawyer-stephen-barry--2
-Principal  ,,,NR Barber Legal,English,Neville Barber,"February 8th, 2014",,"WA, Australia",,/lawyer-network/lawyer-neville-barber
-Proprietor  ,,30,DC Balog & Associates,English,David Balog,"September 17th, 2013",12,"NSW, Australia,  Malaysia,  Singapore,  China"," ""Prompt, effective, friendly and affordable legal representation. Centrally located CBD law practice with a robust general practice and particular emphasis on:
+•	entertainment""",English,,28,"March 6th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-julian-gyngell
+Chris Hexton,Partner  ,Mallesons,"NSW, Australia",,Greek,,,"January 28th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-chris-hexton
+Glenn Hindmarsh,Lawyer  ,PCL Lawyers,"VIC, Australia",,"English, Russian",,,"April 9th, 2014",53,https:/lawpath.com.au/lawyer-network/lawyer-glenn-hindmarsh
+Monique Hayes,Solicitor  ,Southern Waters Legal,"NSW, Australia",,English,,,"February 17th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-monique-hayes
+Katherine Hawes,Principal  ,Aquarius Lawyers,"NSW, Australia",,English,,16,"July 10th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-katherine-hawes
+Yu Chin Cheng,Principal Lawyer  ,Holmes Legal,"QLD, Australia"," ""Holmes Legal is a boutique law firm in Brisbane specialising in the areas of personal injury, property and commercial law.""","English, Mandarin",,,"April 11th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-yu-chin-cheng
+Vincent Cheng,Principal Lawyer  ,MurdockCheng Legal Practice,"NSW, Australia",,English,,6,"October 23rd, 2013",3,https:/lawpath.com.au/lawyer-network/lawyer-vincent-cheng
+Deborah Chee,Principal  ,DSC Law Firm,"NSW, Australia",,English,,15,"July 9th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-deborah-chee
+Eugene Chan,  ,Concisus Legal Pty Ltd,"NSW, Australia",,English,,,"February 18th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-eugene-chan
+Cristina Cecere,"Director, Principal  ",CCR Legal,"SA, Australia",,"English, Italian",,,"November 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-cristina-cecere
+David C Ford,Partner  ,Emil Ford Lawyers,"NSW, Australia",,English,,40,"March 6th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-david-c-ford
+Neville Barber,Principal  ,NR Barber Legal,"WA, Australia",,English,,,"February 8th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-neville-barber
+David Balog,Proprietor  ,DC Balog & Associates,"NSW, Australia,  Malaysia,  Singapore,  China"," ""Prompt, effective, friendly and affordable legal representation. Centrally located CBD law practice with a robust general practice and particular emphasis on:
 •	Property Law
 •	Local government law and planning law
 •	Environmental law
@@ -470,8 +429,10 @@ Proprietor  ,,30,DC Balog & Associates,English,David Balog,"September 17th, 2013
 •	Restaurant, Bar, and Wine Licensing Laws
 •	Pharmaceutical Industry Law
 
-""",/lawyer-network/lawyer-david-balog
-Principal Lawyer  ,,,S.A.S Lawyers,"English, Other",Samuel A. Shenouda,"March 6th, 2014",2,"NSW, Australia"," ""S.A.S Lawyers is a multi-practice law firm with offices in Sydney CBD and the Sutherland Shire. We specialise and provide astute legal advice and representation in:
+""",English,,30,"September 17th, 2013",12,https:/lawpath.com.au/lawyer-network/lawyer-david-balog
+Cade Badawy,Lawyer  ,Steiner Legal,"NSW, Australia",,"English, French",,,"January 31st, 2014",4,https:/lawpath.com.au/lawyer-network/lawyer-cade-badawy
+Dan Atkin,Partner  ,Sparke Helmore,"NSW, Australia",,English,,,"March 7th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-dan-atkin
+Samuel A. Shenouda,Principal Lawyer  ,S.A.S Lawyers,"NSW, Australia"," ""S.A.S Lawyers is a multi-practice law firm with offices in Sydney CBD and the Sutherland Shire. We specialise and provide astute legal advice and representation in:
 
 Business and Commercial Law
 Civil and Commercial Litigation
@@ -479,66 +440,104 @@ Conveyancing & Property Law
 Criminal Law
 Family Law
 Traffic Law
-Wills and Estate Planning / Litigation""",/lawyer-network/lawyer-samuel-a-shenouda
-Director  ,,,Irwin Legal Pty Ltd,English,Anthony Aristei,"April 30th, 2014",,"WA, Australia",,/lawyer-network/lawyer-anthony-aristei
-Partner  ,,,Sparke Helmore,English,Dan Atkin,"March 7th, 2014",1,"NSW, Australia",,/lawyer-network/lawyer-dan-atkin
-Partner  ,,,bharucha and partners,English,Justin Bharucha,"May 16th, 2013",,"INDIA, India, Australia",,/lawyer-network/lawyer-justin-bharucha
-Lawyer  ,,,Steiner Legal,"English, French",Cade Badawy,"January 31st, 2014",4,"NSW, Australia",,/lawyer-network/lawyer-cade-badawy
-Lawyer Accredited Family Law Specialist  ,,,Southern Waters Legal,,Leona Bennett,"February 17th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-leona-bennett
-Owner  ,,33,Bersten Legal,English,Malcolm Bersten,"October 22nd, 2013",,"NSW, Australia"," ""My aim is to give my clients peace of mind by being a trusted adviser. My clients receive the benefit of my practical experience, with an understanding of the client perspective but without the legal jargon.""",/lawyer-network/lawyer-malcolm-bersten
-Director / Solicitor  ,,7,Batey's Family Lawyers,English,Bruce Batey,"September 18th, 2013",2,"NSW, Australia"," ""At Batey’s Family Lawyers we offer a friendly relaxed environment where we provide you with professional advice in the areas of, Family Law, Business and conveyancing law, Elder Law, and Wills and estate planning. We will make you feel comfortable and empowered while listening to you and treating you with respect and dignity.
+Wills and Estate Planning / Litigation""","English, Other",,,"March 6th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-samuel-a-shenouda
+Anthony Aristei,Director  ,Irwin Legal Pty Ltd,"WA, Australia",,English,,,"April 30th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-anthony-aristei
+Justin Bharucha,Partner  ,bharucha and partners,"INDIA, India, Australia",,English,,,"May 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-justin-bharucha
+Malcolm Bersten,Owner  ,Bersten Legal,"NSW, Australia"," ""My aim is to give my clients peace of mind by being a trusted adviser. My clients receive the benefit of my practical experience, with an understanding of the client perspective but without the legal jargon.""",English,,33,"October 22nd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-malcolm-bersten
+Leona Bennett,Lawyer Accredited Family Law Specialist  ,Southern Waters Legal,"NSW, Australia",,,,,"February 17th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-leona-bennett
+Jonathan Bevan,General Counsel  ,Jonathan Bevan and Associates,"NSW, UK,  Australia,  USA"," ""Specialist Power of Attorney. Guardianship. Estate Matters. Asset Protection. Crime. Family Law. Small business. Start-ups
+International Law. General Counsel. Business Consultancy. I work with small business and private individuals to assist with all legal matters, forms, paperwork etc. Have lived and worked in many countries.""",English,,20,"February 25th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-jonathan-bevan
+Simon Bennett,Solicitor Director  ,Southern Waters Legal,"NSW, Australia"," ""Southern Waters Legal is a specialist legal firm that specialises in Family Law, Property Law, Business Law, Probate and Estate, incapacity and Succession Planning.  """,English,,12,"February 4th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-simon-bennett
+Mev Batepola,,,,,English,,,"October 21st, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-mev-batepola
+Janine Carroll,Corporate Lawyer  ,Woods Bagot,"SA, Australia",,English,,8,"July 17th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-janine-carroll
+Shaun Campbell,Solicitor  ,NQ Legal,"QLD, Australia",,English,,,"June 12th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-shaun-campbell
+Bruce Batey,Director / Solicitor  ,Batey's Family Lawyers,"NSW, Australia"," ""At Batey’s Family Lawyers we offer a friendly relaxed environment where we provide you with professional advice in the areas of, Family Law, Business and conveyancing law, Elder Law, and Wills and estate planning. We will make you feel comfortable and empowered while listening to you and treating you with respect and dignity.
 
-Our aim is to assist you with a total solution at the earliest possible time. Please see our website at www.bateys.com.au """,/lawyer-network/lawyer-bruce-batey
-Solicitor Director  ,,12,Southern Waters Legal,English,Simon Bennett,"February 4th, 2014",,"NSW, Australia"," ""Southern Waters Legal is a specialist legal firm that specialises in Family Law, Property Law, Business Law, Probate and Estate, incapacity and Succession Planning.  """,/lawyer-network/lawyer-simon-bennett
-Corporate Lawyer  ,,8,Woods Bagot,English,Janine Carroll,"July 17th, 2013",,"SA, Australia",,/lawyer-network/lawyer-janine-carroll
-,,,,English,Mev Batepola,"October 21st, 2013",,,,/lawyer-network/lawyer-mev-batepola
-Solicitor  ,,,NQ Legal,English,Shaun Campbell,"June 12th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-shaun-campbell
-Founder  ,,3,BUTTERMARK,English,Alex Butterworth,"May 29th, 2014",,"NSW, Australia"," ""BUTTERMARK is a brand protection service offering low cost trade mark registration and other registration services, including advice.""",/lawyer-network/lawyer-alex-butterworth
-Principal  ,,20,Influence Legal,English,Elizabeth Burrows,"March 27th, 2013",9,"NSW, Australia"," ""With over 20 years' experience advising clients ranging from large multinationals to individuals and small businesses, my practice focuses on commercial, IT and intellectual property issues, including privacy and compliance.""",/lawyer-network/lawyer-elizabeth-burrows
-  ,,,Dooley & Associates Solicitors,English,Malcolm Campbell,"February 19th, 2013",14,"NSW, Australia",,/lawyer-network/lawyer-malcolm-campbell
-Solicitor  ,,,"Gall Standfield & Smith, Solicitors",English,Cameron Burnett,"October 1st, 2013",6,"QLD, Australia",,/lawyer-network/lawyer-cameron-burnett
-Partner  ,,41,Emil Ford Lawyers,English,Fred Chilton,"September 12th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-fred-chilton
-Principal Lawyer  ,,,Holmes Legal,"English, Mandarin",Yu Chin Cheng,"April 11th, 2014",1,"QLD, Australia"," ""Holmes Legal is a boutique law firm in Brisbane specialising in the areas of personal injury, property and commercial law.""",/lawyer-network/lawyer-yu-chin-cheng
-Managing Partner  ,,10,IMPEX Lawyers & Advisers,English,Joseph Buccheri,"October 21st, 2013",,"VIC, Europe,  North/South America,  Asia,  Australia."," ""Private, Personal, Commercial Legal Services""",/lawyer-network/lawyer-joseph-buccheri
-  ,,,Concisus Legal Pty Ltd,English,Eugene Chan,"February 18th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-eugene-chan
-Principal Lawyer  ,,6,MurdockCheng Legal Practice,English,Vincent Cheng,"October 23rd, 2013",3,"NSW, Australia",,/lawyer-network/lawyer-vincent-cheng
-Principal  ,,15,DSC Law Firm,English,Deborah Chee,"July 9th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-deborah-chee
-Partner  ,,40,Emil Ford Lawyers,English,David C Ford,"March 6th, 2013",4,"NSW, Australia",,/lawyer-network/lawyer-david-c-ford
-Principal  ,,30,christielaw,English,Rick Christie,"September 17th, 2013",5,"NSW, Australia",,/lawyer-network/lawyer-rick-christie
-Director/Principal Lawyer  ,,,First Legal & Migration Services Pty Ltd,English,Chris Karamanolis,"September 11th, 2013",12,"VIC, Australia"," ""Approx 15 years experience in South Africa and 2 years in Australia (although we practice in various areas of the law, the majority  of our work is related to Australian Immigration law matters).""",/lawyer-network/lawyer-chris-karamanolis
-Principal Solicitor  ,,15,NQ Legal,English,Stuart Watson,"March 27th, 2013",7,"QLD, Australia",,/lawyer-network/lawyer-stuart-watson
-Principal  ,,,Fay Frischer,English,Fay Frischer,"May 8th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-fay-frischer
-Principal  ,,44,Ziman and Ziman Solicitors,English,Derek Ziman,"September 13th, 2013",20,"NSW, Australia - Admitted in South Africa and Lesotho"," ""Many years of experience in  all types of legal issues ranging from business problems, dispute resolution, civil & criminal litigation, building & construction disputes, family law, wills & estates & general advice""",/lawyer-network/lawyer-derek-ziman
-Principal  ,,34,Anthony McMinn lawyer,English,Anthony John Mc Minn,"August 5th, 2014",2,"NSW, Australia"," ""Tony is a commercial lawyer who provides effective legal strategies to businesses and individuals, negotiates and documents transactions and facilitates the resolution of commercial disputes. 
+Our aim is to assist you with a total solution at the earliest possible time. Please see our website at www.bateys.com.au """,English,,7,"September 18th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-bruce-batey
+Malcolm Campbell,  ,Dooley & Associates Solicitors,"NSW, Australia",,English,,,"February 19th, 2013",14,https:/lawpath.com.au/lawyer-network/lawyer-malcolm-campbell
+Elizabeth Burrows,Principal  ,Influence Legal,"NSW, Australia"," ""With over 20 years' experience advising clients ranging from large multinationals to individuals and small businesses, my practice focuses on commercial, IT and intellectual property issues, including privacy and compliance.""",English,,20,"March 27th, 2013",9,https:/lawpath.com.au/lawyer-network/lawyer-elizabeth-burrows
+Cameron Burnett,Solicitor  ,"Gall Standfield & Smith, Solicitors","QLD, Australia",,English,,,"October 1st, 2013",6,https:/lawpath.com.au/lawyer-network/lawyer-cameron-burnett
+Anthony Alder,Principal  ,Alder IP,"NSW, Australia,  USA,  Europe,  New Zealand"," ""Alder IP is a specialised law firm focused on helping clients with intellectual property and commercial law issues. We aim to PROTECT THE GREAT IDEAS of our clients.
 
-With over 30 years legal experience, Tony brings commercial nous and judgment to find cost-effective solutions to commercial and corporate transactions and disputes.    
+Alder IP has over 15 years of experience and has lawyers, trade mark attorneys and patent attorneys ready to assist your business.""",English,,15,"March 27th, 2013",10,https:/lawpath.com.au/lawyer-network/lawyer-anthony-alder
+Chris Adolphe,Principal  ,Chris Adolphe & Associates,"QLD, Australia",,English,,10,"March 18th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-chris-adolphe
+Kathryn Adler,Director + Lawyer   ,Adler Legal,"NSW, Australia"," ""Adler Legal is a boutique commercial law firm based on the waterfront in Pyrmont.  Our principal, Kathryn Adler provides quality advice in the areas of Estate, Property and Business Law.  Whether it is assisting high net worth clients to establish testamentary trust Wills, representing buyers or sellers in conveyancing transactions or drafting business partnership agreements, Adler Legal prides itself on serving its clients by providing the best possible outcome for the most reasonable legal fee""",English,,,"February 20th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-kathryn-adler
+Julia Adlem,Senior Associate Lawyer  ,Adelaide Legal,"SA, Australia"," ""Julia joined the team at Adelaide Legal in September 2006. She read law at Anglia University, Chelmsford in the United Kingdom. Julia's background in management gives her a negotiating edge and the drive to expect more. She doesn’t shy away from the hard fights, but also has the common sense to appreciate when settlement is sensible and guide you through the mine field of the dispute resolution process. Expect more from your lawyer. You matter to us.
 
-Tony obtained a Bachelor of Laws and Master of Laws from the University of Sydney. """,/lawyer-network/lawyer-anthony-john-mcminn
-Solicitor  ,,1,Emil Ford Lawyers,English,Andrew Egri,"August 27th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-andrew-egri
-Principal  ,,,Monaco Lawyers,Italian,Stefano Del Monaco,"August 12th, 2014",1,"VIC, Australia",,/lawyer-network/lawyer-stefano-del-monaco--2
-Principal  ,,18,Curtis Legal,English,Catherine Curtis,"August 9th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-catherine-curtis
-Director  ,,12,ARETE Group Pty Ltd,English,Shaun Creighton,"April 22nd, 2014",1,"ACT, Australia,  New Zealand and International (Trade Marks)"," ""Shaun Creighton is the Director of ARETE Group, a boutique Intellectual Property and Commercial Law firm based in Canberra. Shaun and the ARETE team have specialist expertise in the identification, protection and commercialisation of intellectual property rights - especially trade marks; assist small and startup businesses as part of ARETE Group’s Start Me Up!™ offerings; and represent commercial entities, health organisations, professional athletes, sporting groups and media outlets.""",/lawyer-network/lawyer-shaun-creighton
-Managing Director & Special Counsel (Family Law)  ,,16,HHG Legal Group,English,Simon Creek,"July 30th, 2013",11,"WA, Australia"," ""Award winning Family Law expert. Managing Director & Special Counsel at HHG Legal Group (the no. 3 law firm in Australia).""",/lawyer-network/lawyer-simon-creek
-Migration Agent  ,,,SVC LEGAL AUSTRALIA,English,David Coote,"October 8th, 2014",,"NSW, Australia",,/lawyer-network/lawyer-david-coote
-,,6,,English,Richard Conway,"March 28th, 2013",,,,/lawyer-network/lawyer-richard-conway
-Director  ,,28,AbetzCurtis,English,Roger Curtis,"August 29th, 2013",,"TAS, Australia",,/lawyer-network/lawyer-roger-curtis
-Principal  ,,5,Cominos Lawyers,English,Pamela Cominos,"July 21st, 2013",12,"NSW, Australia",,/lawyer-network/lawyer-pamela-cominos
-Senior Associate  ,,5,Cridlands MB ,English,Patrick Cozens,"August 29th, 2013",5,"NT, Australia",,/lawyer-network/lawyer-patrick-cozens
-Principal  ,,19,Monaco Lawyers,English,Stefano Del Monaco,"July 6th, 2013",4,"VIC, Australia",,/lawyer-network/lawyer-stefano-del-monaco
-Managing Partner  ,,7,Norberto S. Gonzales and Associates,English,Philip De Jesus,"April 23rd, 2013",,"PHILIPPINES, Philippines, Australia",,/lawyer-network/lawyer-philip-de-jesus
-Director | Principal Solicitor  ,,20,TechComm Legal,English,Kent Davey,"September 16th, 2013",7,"VIC, Australia"," ""We provide clients with high quality, value for money legal services.  We have over 30 years' experience providing clients with legal services in the areas of IT, telecommunications, intellectual property, e-commerce, privacy and commercial law.  We have provided legal services to the largest private and public sector organisations including many ASX top 20 companies and large federal and state government departments and agencies.""",/lawyer-network/lawyer-kent-davey
-Lawyer  ,,,Abetz Curtis Lawyers,English,Fiona Davis,"January 15th, 2014",,"TAS, Australia",,/lawyer-network/lawyer-fiona-davis
-Principal  ,,28,Michael Dampney Lawyer,English,M Ichael Dampney,"February 26th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-michael-dampney
-Principal  ,,14,Kenny Spring Solicitors,English,Angus Edwards,"March 15th, 2013",,"NSW, Australia",,/lawyer-network/lawyer-angus-edwards
-Director  ,,13,HW Litigation Pty Ltd,English,Martin Daniel,"June 20th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-martin-daniel
-Lawyer  ,,,Toogoods  Migration,English,Gail Easey,"October 16th, 2013",2,"QLD, Australia",,/lawyer-network/lawyer-gail-easey
-Principal  ,,,PRD Legal,"English, French",Rory Donnellan,"July 1st, 2014",2,"VIC, Australia",,/lawyer-network/lawyer-rory-donnellan
-Senior Associate  ,,7,Adviceline Injury Lawyers,English,Ursula Donovan,"July 31st, 2013",,"VIC, Australia",,/lawyer-network/lawyer-ursula-donovan
-Assistant Company Secretary  ,,10,Affinity Education,English,Lisa Dalton,"November 26th, 2013",,"QLD, Australia",,/lawyer-network/lawyer-lisa-dalton
-Principal  ,,5,Dewar Legal,English,Thomas Dewar,"July 18th, 2013",5,"SA, Australia",,/lawyer-network/lawyer-thomas-dewar
-General Counsel  ,,20,Jonathan Bevan and Associates,English,Jonathan Bevan,"February 25th, 2014",,"NSW, UK,  Australia,  USA"," ""Specialist Power of Attorney. Guardianship. Estate Matters. Asset Protection. Crime. Family Law. Small business. Start-ups
-International Law. General Counsel. Business Consultancy. I work with small business and private individuals to assist with all legal matters, forms, paperwork etc. Have lived and worked in many countries.""",/lawyer-network/lawyer-jonathan-bevan
-  ,,,Dilanchian Lawyers & Consultants,English,Noric Dilanchian,"February 15th, 2013",4,"NSW, Australia",,/lawyer-network/lawyer-noric-dilanchian
-Partner  ,,31,McKean Park,English,Mark Flynn,"October 14th, 2013",2,"VIC, Australia",,/lawyer-network/lawyer-mark-flynn
-,,10,,"English, Mandarin, Italian, Cantonese, Vietnamese, Other",Maggie Elamrousy,"November 4th, 2014",,,,/lawyer-network/lawyer-maggie-elamrousy--2
-Senior Associate  ,,"10,40",Taylor & Scott Lawyers ,"English, Italian, Greek, Other",Evelyn Gardis,"July 25th, 2013",6,"NSW, nsw,  australia",,/lawyer-network/lawyer-evelyn-gardis
+""","English, Italian, Other",,8,"March 3rd, 2014",12,https:/lawpath.com.au/lawyer-network/lawyer-julia-adlem
+Christopher Adams,Director/Prinicpal  ,Christopher Adams & Associates,"NSW, Australia,  Papua New Guinea"," ""Christopher heads a small firm of lawyers who can advise in almost all areas of law. The firm appears in all jurisdictions and takes pride in ensuring the client/lawyer relationship is balanced with prompt service  and regular contact.""",English,,7,"May 14th, 2014",81,https:/lawpath.com.au/lawyer-network/lawyer-christopher-adams
+Patrick Coetsee,Solicitor  ,Kenny Spring Solicitors,"NSW, Australia ",,English,,4,"March 15th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-patrick-coetsee
+Tim Colcutt,Solicitor  ,HHG Legal Group,"WA, Australia",,English,,,"April 9th, 2014",5,https:/lawpath.com.au/lawyer-network/lawyer-tim-colcutt
+Eric Citra,Lawyer  ,Vanguard Legal,"QLD, Australia"," ""We are a firm of business litigation lawyers located in Queensland. We service all of Qld, NSW, Victoria and South Australia. We are able to assist you with all commercial, estate and insolvency litigation. The scope of work our firm practices in is everything from contract law through disputed estates and all matters concerning personal bankruptcy as well as business and corporate insolvency""","English, Mandarin, Other",,8,"December 13th, 2013",16,https:/lawpath.com.au/lawyer-network/lawyer-eric-citra
+Felix Christian Hoelscher,Partner  ,Andersons Solicitors,"SA, South Australia (State Courts); Australia (Federal Court)",,English,,10,"June 25th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-felix-christian-hoelscher
+Rick Christie,Principal  ,christielaw,"NSW, Australia",,English,,30,"September 17th, 2013",5,https:/lawpath.com.au/lawyer-network/lawyer-rick-christie
+Jeffrey Choy,Principal Lawyer  ,Jeffrey Choy Legal,"NSW, Australia",,English,,,"April 12th, 2014",5,https:/lawpath.com.au/lawyer-network/lawyer-jeffrey-choy
+Steven Chopping,Sole Practitioner  ,Steven Chopping LL.B,"TAS, Aust, Australia",,English,,41,"August 29th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-steven-chopping
+Mark Allen,Director  ,Allen Legal,"NSW, Australia",,English,,,"October 15th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-mark-allen
+Christina Alexopoulos,Director  ,Auscorp Solicitors & Conveyancers,"NSW, Australia",,English,,16,"July 9th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-christina-alexopoulos
+Alex Butterworth,Founder  ,BUTTERMARK,"NSW, Australia"," ""BUTTERMARK is a brand protection service offering low cost trade mark registration and other registration services, including advice.""",English,,3,"May 29th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-alex-butterworth
+Bruce Havilah,Principal  ,Havilah Legal,"WA, Australia",,English,,,"September 1st, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-bruce-havilah
+Stephen Barry,Principal  ,CKB Associates Lawyers,"NSW, Australia",,English,,31,"May 13th, 2014",11,https:/lawpath.com.au/lawyer-network/lawyer-stephen-barry--2
+Andrew Egri,Solicitor  ,Emil Ford Lawyers,"NSW, Australia",,English,,1,"August 27th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-andrew-egri
+Stefano Del Monaco,Principal  ,Monaco Lawyers,"VIC, Australia",,Italian,,,"August 12th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-stefano-del-monaco--2
+Catherine Curtis,Principal  ,Curtis Legal,"NSW, Australia",,English,,18,"August 9th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-catherine-curtis
+Roger Curtis,Director  ,AbetzCurtis,"TAS, Australia",,English,,28,"August 29th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-roger-curtis
+Simon Creek,Managing Director & Special Counsel (Family Law)  ,HHG Legal Group,"WA, Australia"," ""Award winning Family Law expert. Managing Director & Special Counsel at HHG Legal Group (the no. 3 law firm in Australia).""",English,,16,"July 30th, 2013",12,https:/lawpath.com.au/lawyer-network/lawyer-simon-creek
+Shaun Creighton,Director  ,ARETE Group Pty Ltd,"ACT, Australia,  New Zealand and International (Trade Marks)"," ""Shaun Creighton is the Director of ARETE Group, a boutique Intellectual Property and Commercial Law firm based in Canberra. Shaun and the ARETE team have specialist expertise in the identification, protection and commercialisation of intellectual property rights - especially trade marks; assist small and startup businesses as part of ARETE Group’s Start Me Up!™ offerings; and represent commercial entities, health organisations, professional athletes, sporting groups and media outlets.""",English,,12,"April 22nd, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-shaun-creighton
+David Coote,Migration Agent  ,SVC LEGAL AUSTRALIA,"NSW, Australia",,English,,,"October 8th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-david-coote
+Richard Conway,,,,,English,,6,"March 28th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-richard-conway
+Pamela Cominos,Principal  ,Cominos Lawyers,"NSW, Australia",,English,,5,"July 21st, 2013",12,https:/lawpath.com.au/lawyer-network/lawyer-pamela-cominos
+Patrick Cozens,Senior Associate  ,Cridlands MB ,"NT, Australia",,English,,5,"August 29th, 2013",5,https:/lawpath.com.au/lawyer-network/lawyer-patrick-cozens
+Stefano Del Monaco,Principal  ,Monaco Lawyers,"VIC, Australia",,English,,19,"July 6th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-stefano-del-monaco
+Philip De Jesus,Managing Partner  ,Norberto S. Gonzales and Associates,"PHILIPPINES, Philippines, Australia",,English,,7,"April 23rd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-philip-de-jesus
+Kent Davey,Director | Principal Solicitor  ,TechComm Legal,"VIC, Australia"," ""We provide clients with high quality, value for money legal services.  We have over 30 years' experience providing clients with legal services in the areas of IT, telecommunications, intellectual property, e-commerce, privacy and commercial law.  We have provided legal services to the largest private and public sector organisations including many ASX top 20 companies and large federal and state government departments and agencies.""",English,,20,"September 16th, 2013",7,https:/lawpath.com.au/lawyer-network/lawyer-kent-davey
+Fiona Davis,Lawyer  ,Abetz Curtis Lawyers,"TAS, Australia",,English,,,"January 15th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-fiona-davis
+Martin Daniel,Director  ,HW Litigation Pty Ltd,"QLD, Australia",,English,,13,"June 20th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-martin-daniel
+M Ichael Dampney,Principal  ,Michael Dampney Lawyer,"NSW, Australia",,English,,28,"February 26th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-michael-dampney
+Angus Edwards,Principal  ,Kenny Spring Solicitors,"NSW, Australia",,English,,14,"March 15th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-angus-edwards
+Gail Easey,Lawyer  ,Toogoods  Migration,"QLD, Australia",,English,,,"October 16th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-gail-easey
+Ursula Donovan,Senior Associate  ,Adviceline Injury Lawyers,"VIC, Australia",,English,,7,"July 31st, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-ursula-donovan
+Rory Donnellan,Principal  ,PRD Legal,"VIC, Australia",,"English, French",,,"July 1st, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-rory-donnellan
+Lisa Dalton,Assistant Company Secretary  ,Affinity Education,"QLD, Australia",,English,,10,"November 26th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-lisa-dalton
+Thomas Dewar,Principal  ,Dewar Legal,"SA, Australia",,English,,5,"July 18th, 2013",5,https:/lawpath.com.au/lawyer-network/lawyer-thomas-dewar
+Zoe Hibbard,Solicitor  ,Southern Waters Legal,"NSW, Australia",,,,,"February 17th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-zoe-hibbard
+Noric Dilanchian,  ,Dilanchian Lawyers & Consultants,"NSW, Australia",,English,,,"February 15th, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-noric-dilanchian
+Santiago De Silva,Managing Partner  ,De Silva Legal,"NSW, Australia"," ""We all know the box that most people fit lawyers into. At De Silva Legal, we understand that when you need legal services, it's rarely for something fun and usually for something you either have to do or some sort of difficult situation that you have found yourself in. 
+
+That's why at De Silva Legal, we spend the time to learn what your situation is without charging you, tell you the cost upfront and commit clearly to the objectives you want from the outset.""","English, Other",,8,"February 17th, 2014",75,https:/lawpath.com.au/lawyer-network/lawyer-santiago-de-silva
+Dave Hadley,Lawyer  ,Essen Lawyers Pty Ltd,"QLD, Australia",,"English, Mandarin, Vietnamese",,,"July 4th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-dave-hadley
+Bishoy Hanna,Solicitor  ,Sabelberg Morcos Lawyers,"VIC, Australia",,English,,"1,5","September 13th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-bishoy-hanna
+June H,Solicitor  ,PCL Lawyers,"VIC, Australia",,"English, Mandarin, Russian",,,"May 26th, 2014",39,https:/lawpath.com.au/lawyer-network/lawyer-june-h
+Matthew Bridger,Partner  ,Elringtons,"ACT, Australia",,"English, Spanish, Other",,,"May 12th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-matthew-bridger
+David Brett,Consultant Lawyer  ,McKean Park,"VIC, Australia",,English,,35,"October 21st, 2013",4,https:/lawpath.com.au/lawyer-network/lawyer-david-brett
+Nicole Young,Solicitor  ,HHG Legal Group,"WA, Australia",,English,,10,"February 5th, 2014",19,https:/lawpath.com.au/lawyer-network/lawyer-nicole-young
+Lynda Young,,,,,English,,14,"January 31st, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-lynda-young
+George Zindilis,Principal  ,zindilis lawyers,"VIC, Australia",,"English, Mandarin, Italian, Cantonese, Greek, Spanish, Other",,,"July 29th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-george-zindilis
+David Schwartz,Lawyer  ,Adviceline Injury Lawyers,"VIC, Australia",,English,,6,"July 31st, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-david-schwartz
+Angus Smyth,Lawyer  ,MBT Lawyers,"NSW, Australia"," ""Your work, your home, your family and your future are all impacted by the long arm of the law. I enjoy working with my clients to find simple and cost effective solutions to a range of legal issues.""",English,,5,"April 30th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-angus-smyth
+Patrick See,Owner  ,Lloyd & Lloyd,"NSW, Australia"," ""legal advice areas include commercial, contracts, real estate, property, wills and estates, Family Law,""",English,,27,"November 26th, 2013",6,https:/lawpath.com.au/lawyer-network/lawyer-patrick-see
+Ben Sewell,Director  ,Sewell & Kettle ,"NSW, Australia"," ""Sewell & Kettle Lawyers are trusted advisers to credit managers, accountants, entrepreneurs, transactional lawyers and in-house legal departments. We have a business mind-set and provide specialist advice in the following areas: 
+Credit management
+B2B debt recovery
+Commercial dispute resolution
+Strategic insolvency""",English,,11,"February 26th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-ben-sewell
+Shavin Silva,Lawyer  ,Adelaide Legal,"SA, Australia",,"English, Other",,,"June 3rd, 2014",4,https:/lawpath.com.au/lawyer-network/lawyer-shavin-silva
+Sajai Singh,Partner  ,J. Sagar Associates,"INDIA, India, Australia",,English,,23,"May 14th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-sajai-singh
+Joselyn Kishore,Principal Solicitor  ,A&J Montgomery Legal,"NSW, Australia",,"English, Other",,,"November 18th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-joselyn-kishore
+Nickita Knight,Lawyer  ,PCL Lawyers,"VIC, Australia,  "," ""I am a Family Lawyer based in the Melbourne CBD. I have experience in all matter of Family Law""",Russian,,4,"January 31st, 2014",29,https:/lawpath.com.au/lawyer-network/lawyer-nickita-knight
+David Andrews,Lawyer  ,KWS Legal,"NSW, Australia",,English,,,"December 19th, 2013",1,https:/lawpath.com.au/lawyer-network/lawyer-david-andrews
+Derek Ziman,Principal  ,Ziman and Ziman Solicitors,"NSW, Australia - Admitted in South Africa and Lesotho"," ""Many years of experience in  all types of legal issues ranging from business problems, dispute resolution, civil & criminal litigation, building & construction disputes, family law, wills & estates & general advice""",English,,44,"September 13th, 2013",20,https:/lawpath.com.au/lawyer-network/lawyer-derek-ziman
+Chris Stevens,Senior Associate  ,Deutsch Miller,"NSW, Australia",,English,,6,"April 15th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-chris-stevens
+Maree Slingsby,Principal Director  ,acs legal Solutions,"QLD, Australia",,English,,,"July 5th, 2014",1,https:/lawpath.com.au/lawyer-network/lawyer-maree-slingsby
+Jared Zak,Principal  ,Dodd & Crossett,"NSW, Australia"," ""Ex-Mallesons, ex-Allen Overy solicitor will strong commercial background. """,English,,10,"September 18th, 2014",9,https:/lawpath.com.au/lawyer-network/lawyer-jared-zak
+Scott Webb,Senior Associate  ,Broadley Rees Hogan Lawyers,"QLD, Australia",,English,,14,"July 25th, 2014",2,https:/lawpath.com.au/lawyer-network/lawyer-scott-webb
+Shane Wescott,,,,,"English, Spanish",,,"August 15th, 2014",11,https:/lawpath.com.au/lawyer-network/lawyer-shane-wescott
+Bede Webster,Owner / Principal  ,Just Dispute Resolution,"NSW, Australia",,English,,5,"March 27th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-bede-webster
+Laurinda Wellings,Lawyer  ,Law Plus,"NSW, Australia",,English,,,"June 11th, 2014",,https:/lawpath.com.au/lawyer-network/lawyer-laurinda-wellings
+Artur Stuart,Principal  ,Artur Stuart Legal,"VIC, Australia",,English,,12,"July 23rd, 2013",54,https:/lawpath.com.au/lawyer-network/lawyer-artur-stuart
+Jason Watson,Partner  ,FAL Lawyers,"VIC, Australia",,English,,,"July 30th, 2013",2,https:/lawpath.com.au/lawyer-network/lawyer-jason-watson
+Stuart Watson,Principal Solicitor  ,NQ Legal,"QLD, Australia",,English,,15,"March 27th, 2013",7,https:/lawpath.com.au/lawyer-network/lawyer-stuart-watson
+Harriet Warlow Shill,Managing Partner  ,KWS Legal,"NSW, Australia,  Israel",,English,,5,"September 17th, 2013",30,https:/lawpath.com.au/lawyer-network/lawyer-harriet-warlow-shill
+Vanessa Wang,Solicitor   ,Dettmann Longworth Lawyers ,"QLD, Australia ",,English,,1,"July 3rd, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-vanessa-wang
+Raminder Singh Sahota,Chief Legal Advisor  ,Disputes Settlement Trust,India,,English,,40,"July 16th, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-raminder-singh-sahota
+Joseph Buccheri,Managing Partner  ,IMPEX Lawyers & Advisers,"VIC, Europe,  North/South America,  Asia,  Australia."," ""Private, Personal, Commercial Legal Services""",English,,10,"October 21st, 2013",,https:/lawpath.com.au/lawyer-network/lawyer-joseph-buccheri
